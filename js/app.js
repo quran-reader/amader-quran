@@ -2,6 +2,7 @@ let quranData = {};
 let translationData = {};
 let rootData = {};
 let surahMorphologyData = {};
+let adminTranslations = {};
 let currentSurah = 1;
 let currentAyah = 1;
 let currentMode = "reader";
@@ -156,9 +157,42 @@ const bookmarkList = document.getElementById("bookmarkList");
 // -------------------------------------
 // Load Quran
 // -------------------------------------
+async function loadAdminTranslations() {
 
+    try {
+
+        const response =
+            await fetch(
+                "https://amader-quran-backend.onrender.com/api/translations"
+            );
+
+        if (!response.ok) {
+
+            throw new Error(
+                "Admin translations could not be loaded."
+            );
+
+        }
+
+        adminTranslations =
+            await response.json();
+
+        console.log(
+            "Online admin translations loaded:",
+            adminTranslations
+        );
+
+    } catch (error) {
+
+        console.error(
+            "Admin translation loading error:",
+            error
+        );
+
+    }
+}
 async function loadQuran() {
-
+    await loadAdminTranslations();
     try {
 
         console.log("Quran application starting...");
@@ -340,10 +374,24 @@ function showSingleAyah(ayah) {
     translationData[currentSurah]?.ayahs;
 
 let translation = "";
+
+const centralTranslation =
+    adminTranslations[currentSurah]?.[ayah.number];
+
 const savedTranslation =
     localStorage.getItem(
         `translation_${currentSurah}_${ayah.number}`
     );
+
+if (centralTranslation) {
+
+    translation = centralTranslation;
+
+} else if (savedTranslation !== null) {
+
+    translation = savedTranslation;
+
+}
 if (savedTranslation !== null) {
 
     translation = savedTranslation;
@@ -441,6 +489,35 @@ editBox.after(saveButton, cancelButton);
         `translation_${currentSurah}_${ayah.number}`,
         translation
     );
+    fetch("https://amader-quran-backend.onrender.com/api/translations", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            surah: currentSurah,
+            ayah: ayah.number,
+            translation: translation
+       })
+})
+.then(response => response.json())
+.then(data => {
+
+    if (!data.success) {
+        throw new Error(data.message || "Translation save failed.");
+    }
+
+    console.log("✅ Central translation saved:", data);
+
+})
+.catch(error => {
+
+    console.error(
+        "❌ Central translation save error:",
+        error
+    );
+
+});
     ayahElement.querySelector(".translation-bn").textContent = translation;
     editBox.style.display = "none";
     saveButton.style.display = "none";
