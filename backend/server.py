@@ -43,12 +43,12 @@ def admin_login():
     )
 
     if (
-        admin_password
-        and secrets.compare_digest(
-            password,
-            admin_password
-        )
-    ):
+    admin_password
+    and secrets.compare_digest(
+        password.encode("utf-8"),
+        admin_password.encode("utf-8")
+    )
+):
         return jsonify({
             "success": True,
             "message": "Admin login successful."
