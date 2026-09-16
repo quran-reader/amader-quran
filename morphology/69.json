@@ -1,0 +1,8219 @@
+{
+  "metadata": {
+    "surah": 69,
+    "source": "Quranic Arabic Corpus v0.4 / mustafa0x/quran-morphology",
+    "quran_text_source": "quran-uthmani.txt",
+    "purpose": "Word-level morphology"
+  },
+  "words": {
+    "69:1:1": {
+      "text": "بِسۡمِ",
+      "root": "حقق",
+      "lemma": "حَآقَّة",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلْ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "HaA^q~apu",
+          "source_form_ar": "حَآقَّةُ",
+          "pos": "N",
+          "root": "حقق",
+          "lemma": "حَآقَّة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:2:1": {
+      "text": "مَا",
+      "root": "",
+      "lemma": "مَا",
+      "pos": "INTG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "maA",
+          "source_form_ar": "مَا",
+          "pos": "INTG",
+          "root": "",
+          "lemma": "مَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:2:2": {
+      "text": "ٱلۡحَاۤقَّةُ",
+      "root": "حقق",
+      "lemma": "حَآقَّة",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "HaA^q~apu",
+          "source_form_ar": "حَاۤقَّةُ",
+          "pos": "N",
+          "root": "حقق",
+          "lemma": "حَآقَّة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:3:1": {
+      "text": "وَمَاۤ",
+      "root": "",
+      "lemma": "مَا",
+      "pos": "INTG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "maA^",
+          "source_form_ar": "مَاۤ",
+          "pos": "INTG",
+          "root": "",
+          "lemma": "مَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:3:2": {
+      "text": "أَدۡرَىٰكَ",
+      "root": "دري",
+      "lemma": "أَدْرَىٰ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">adoraY`",
+          "source_form_ar": "أَدۡرَىٰ",
+          "pos": "V",
+          "root": "دري",
+          "lemma": "أَدْرَىٰ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "form": "IV",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "ka",
+          "source_form_ar": "كَ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "form": "IV",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:3:3": {
+      "text": "مَا",
+      "root": "",
+      "lemma": "مَا",
+      "pos": "INTG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "maA",
+          "source_form_ar": "مَا",
+          "pos": "INTG",
+          "root": "",
+          "lemma": "مَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:3:4": {
+      "text": "ٱلۡحَاۤقَّةُ",
+      "root": "حقق",
+      "lemma": "حَآقَّة",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "HaA^q~apu",
+          "source_form_ar": "حَاۤقَّةُ",
+          "pos": "N",
+          "root": "حقق",
+          "lemma": "حَآقَّة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:4:1": {
+      "text": "كَذَّبَتۡ",
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "ka*~abato",
+          "source_form_ar": "كَذَّبَتۡ",
+          "pos": "V",
+          "root": "كذب",
+          "lemma": "كَذَّبَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "form": "II",
+            "person_gender_number": "3FS",
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "form": "II",
+      "person_gender_number": "3FS",
+      "person": "3",
+      "gender": "F",
+      "number": "S"
+    },
+    "69:4:2": {
+      "text": "ثَمُودُ",
+      "root": "",
+      "lemma": "ثَمُود",
+      "pos": "PN",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "vamuwdu",
+          "source_form_ar": "ثَمُودُ",
+          "pos": "PN",
+          "root": "",
+          "lemma": "ثَمُود",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:4:3": {
+      "text": "وَعَادُۢ",
+      "root": "عود",
+      "lemma": "عَاد2",
+      "pos": "PN",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "EaAdN[",
+          "source_form_ar": "عَادٌ[",
+          "pos": "PN",
+          "root": "عود",
+          "lemma": "عَاد2",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:4:4": {
+      "text": "بِٱلۡقَارِعَةِ",
+      "root": "قرع",
+      "lemma": "قَارِعَة",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "bi",
+          "source_form_ar": "بِ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "STEM",
+          "source_form": "qaAriEapi",
+          "source_form_ar": "قَارِعَةِ",
+          "pos": "N",
+          "root": "قرع",
+          "lemma": "قَارِعَة",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:5:1": {
+      "text": "فَأَمَّا",
+      "root": "",
+      "lemma": "أَمَّا",
+      "pos": "EXL",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": ">am~aA",
+          "source_form_ar": "أَمَّا",
+          "pos": "EXL",
+          "root": "",
+          "lemma": "أَمَّا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:5:2": {
+      "text": "ثَمُودُ",
+      "root": "",
+      "lemma": "ثَمُود",
+      "pos": "PN",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "vamuwdu",
+          "source_form_ar": "ثَمُودُ",
+          "pos": "PN",
+          "root": "",
+          "lemma": "ثَمُود",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:5:3": {
+      "text": "فَأُهۡلِكُوا۟",
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": ">uholiku",
+          "source_form_ar": "أُهۡلِكُ",
+          "pos": "V",
+          "root": "هلك",
+          "lemma": "أَهْلَكَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "PASS",
+            "form": "IV",
+            "person_gender_number": "3MP",
+            "person": "3",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "wA@",
+          "source_form_ar": "وا@",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "PASS",
+      "form": "IV",
+      "person_gender_number": "3MP",
+      "person": "3",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:5:4": {
+      "text": "بِٱلطَّاغِیَةِ",
+      "root": "طغي",
+      "lemma": "طَّاغِيَة",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "bi",
+          "source_form_ar": "بِ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "PREFIX",
+          "source_form": "{l",
+          "source_form_ar": "ٱل",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "STEM",
+          "source_form": "T~aAgiyapi",
+          "source_form_ar": "طَّاغِیَةِ",
+          "pos": "N",
+          "root": "طغي",
+          "lemma": "طَّاغِيَة",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:6:1": {
+      "text": "وَأَمَّا",
+      "root": "",
+      "lemma": "أَمَّا",
+      "pos": "EXL",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": ">am~aA",
+          "source_form_ar": "أَمَّا",
+          "pos": "EXL",
+          "root": "",
+          "lemma": "أَمَّا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:6:2": {
+      "text": "عَادࣱ",
+      "root": "عود",
+      "lemma": "عَاد2",
+      "pos": "PN",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "EaAdN",
+          "source_form_ar": "عَادࣱ",
+          "pos": "PN",
+          "root": "عود",
+          "lemma": "عَاد2",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:6:3": {
+      "text": "فَأُهۡلِكُوا۟",
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": ">uholiku",
+          "source_form_ar": "أُهۡلِكُ",
+          "pos": "V",
+          "root": "هلك",
+          "lemma": "أَهْلَكَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "PASS",
+            "form": "IV",
+            "person_gender_number": "3MP",
+            "person": "3",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "wA@",
+          "source_form_ar": "وا@",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "PASS",
+      "form": "IV",
+      "person_gender_number": "3MP",
+      "person": "3",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:6:4": {
+      "text": "بِرِیحࣲ",
+      "root": "روح",
+      "lemma": "رِيح",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "bi",
+          "source_form_ar": "بِ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "riyHK",
+          "source_form_ar": "رِیحࣲ",
+          "pos": "N",
+          "root": "روح",
+          "lemma": "رِيح",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:6:5": {
+      "text": "صَرۡصَرٍ",
+      "root": "صرصر",
+      "lemma": "صَرْصَر",
+      "pos": "ADJ",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "SaroSarK",
+          "source_form_ar": "صَرۡصَرٍ",
+          "pos": "ADJ",
+          "root": "صرصر",
+          "lemma": "صَرْصَر",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:6:6": {
+      "text": "عَاتِیَةࣲ",
+      "root": "عتو",
+      "lemma": "عَاتِيَة",
+      "pos": "ADJ",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "EaAtiyapK",
+          "source_form_ar": "عَاتِیَةࣲ",
+          "pos": "ADJ",
+          "root": "عتو",
+          "lemma": "عَاتِيَة",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:7:1": {
+      "text": "سَخَّرَهَا",
+      "root": "سخر",
+      "lemma": "سَخَّرَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "sax~ara",
+          "source_form_ar": "سَخَّرَ",
+          "pos": "V",
+          "root": "سخر",
+          "lemma": "سَخَّرَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "form": "II",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "haA",
+          "source_form_ar": "هَا",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "form": "II",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:7:2": {
+      "text": "عَلَیۡهِمۡ",
+      "root": "",
+      "lemma": "عَلَىٰ",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "Ealayo",
+          "source_form_ar": "عَلَیۡ",
+          "pos": "P",
+          "root": "",
+          "lemma": "عَلَىٰ",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "himo",
+          "source_form_ar": "هِمۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ]
+    },
+    "69:7:3": {
+      "text": "سَبۡعَ",
+      "root": "سبع",
+      "lemma": "سَبْع",
+      "pos": "T",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "saboEa",
+          "source_form_ar": "سَبۡعَ",
+          "pos": "T",
+          "root": "سبع",
+          "lemma": "سَبْع",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:7:4": {
+      "text": "لَیَالࣲ",
+      "root": "ليل",
+      "lemma": "لَيْل",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "layaAlK",
+          "source_form_ar": "لَیَالࣲ",
+          "pos": "N",
+          "root": "ليل",
+          "lemma": "لَيْل",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:7:5": {
+      "text": "وَثَمَـٰنِیَةَ",
+      "root": "ثمن",
+      "lemma": "ثَمَٰنِيَة",
+      "pos": "T",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "vama`niyapa",
+          "source_form_ar": "ثَمَٰنِيَةَ",
+          "pos": "T",
+          "root": "ثمن",
+          "lemma": "ثَمَٰنِيَة",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:7:6": {
+      "text": "أَیَّامٍ",
+      "root": "يوم",
+      "lemma": "يَوْم",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">ay~aAmK",
+          "source_form_ar": "أَیَّامٍ",
+          "pos": "N",
+          "root": "يوم",
+          "lemma": "يَوْم",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:7:7": {
+      "text": "حُسُومࣰاۖ",
+      "root": "حسم",
+      "lemma": "حُسُوم",
+      "pos": "ADJ",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "HusuwmFA",
+          "source_form_ar": "حُسُومࣰاۖ",
+          "pos": "ADJ",
+          "root": "حسم",
+          "lemma": "حُسُوم",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:7:8": {
+      "text": "فَتَرَى",
+      "root": "راي",
+      "lemma": "رَءَا",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "taraY",
+          "source_form_ar": "تَرَى",
+          "pos": "V",
+          "root": "راي",
+          "lemma": "رَءَا",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "person_gender_number": "2MS",
+            "person": "2",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "person_gender_number": "2MS",
+      "person": "2",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:7:9": {
+      "text": "ٱلۡقَوۡمَ",
+      "root": "قوم",
+      "lemma": "قَوْم",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "qawoma",
+          "source_form_ar": "قَوۡمَ",
+          "pos": "N",
+          "root": "قوم",
+          "lemma": "قَوْم",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:7:10": {
+      "text": "فِیهَا",
+      "root": "",
+      "lemma": "فِى",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "fiy",
+          "source_form_ar": "فِی",
+          "pos": "P",
+          "root": "",
+          "lemma": "فِى",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "haA",
+          "source_form_ar": "هَا",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:7:11": {
+      "text": "صَرۡعَىٰ",
+      "root": "صرع",
+      "lemma": "صَرْعَىٰ",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "SaroEaY`",
+          "source_form_ar": "صَرۡعَىٰ",
+          "pos": "N",
+          "root": "صرع",
+          "lemma": "صَرْعَىٰ",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:7:12": {
+      "text": "كَأَنَّهُمۡ",
+      "root": "",
+      "lemma": "كَأَنّ",
+      "pos": "ACC",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "ka>an~a",
+          "source_form_ar": "كَأَنَّ",
+          "pos": "ACC",
+          "root": "",
+          "lemma": "كَأَنّ",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "humo",
+          "source_form_ar": "هُمۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ]
+    },
+    "69:7:13": {
+      "text": "أَعۡجَازُ",
+      "root": "عجز",
+      "lemma": "أَعْجَاز",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">aEojaAzu",
+          "source_form_ar": "أَعۡجَازُ",
+          "pos": "N",
+          "root": "عجز",
+          "lemma": "أَعْجَاز",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:7:14": {
+      "text": "نَخۡلٍ",
+      "root": "نخل",
+      "lemma": "نَخْل",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "naxolK",
+          "source_form_ar": "نَخۡلٍ",
+          "pos": "N",
+          "root": "نخل",
+          "lemma": "نَخْل",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:7:15": {
+      "text": "خَاوِیَةࣲ",
+      "root": "خوي",
+      "lemma": "خَاوِيَة",
+      "pos": "ADJ",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "xaAwiyapK",
+          "source_form_ar": "خَاوِیَةࣲ",
+          "pos": "ADJ",
+          "root": "خوي",
+          "lemma": "خَاوِيَة",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:8:1": {
+      "text": "فَهَلۡ",
+      "root": "",
+      "lemma": "هَل",
+      "pos": "INTG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "halo",
+          "source_form_ar": "هَلۡ",
+          "pos": "INTG",
+          "root": "",
+          "lemma": "هَل",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:8:2": {
+      "text": "تَرَىٰ",
+      "root": "راي",
+      "lemma": "رَءَا",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "taraY`",
+          "source_form_ar": "تَرَىٰ",
+          "pos": "V",
+          "root": "راي",
+          "lemma": "رَءَا",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "person_gender_number": "2MS",
+            "person": "2",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "person_gender_number": "2MS",
+      "person": "2",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:8:3": {
+      "text": "لَهُم",
+      "root": "",
+      "lemma": "",
+      "pos": "PRON",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "la",
+          "source_form_ar": "لَ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "hum",
+          "source_form_ar": "هُم",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:8:4": {
+      "text": "مِّنۢ",
+      "root": "",
+      "lemma": "مِن",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "m~in[",
+          "source_form_ar": "مِّن[",
+          "pos": "P",
+          "root": "",
+          "lemma": "مِن",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:8:5": {
+      "text": "بَاقِیَةࣲ",
+      "root": "بقي",
+      "lemma": "بَاقِيَة",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "baAqiyapK",
+          "source_form_ar": "بَاقِیَةࣲ",
+          "pos": "N",
+          "root": "بقي",
+          "lemma": "بَاقِيَة",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:9:1": {
+      "text": "وَجَاۤءَ",
+      "root": "جيا",
+      "lemma": "جَآءَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "jaA^'a",
+          "source_form_ar": "جَاۤءَ",
+          "pos": "V",
+          "root": "جيا",
+          "lemma": "جَآءَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:9:2": {
+      "text": "فِرۡعَوۡنُ",
+      "root": "",
+      "lemma": "فِرْعَوْن",
+      "pos": "PN",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "firoEawonu",
+          "source_form_ar": "فِرۡعَوۡنُ",
+          "pos": "PN",
+          "root": "",
+          "lemma": "فِرْعَوْن",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:9:3": {
+      "text": "وَمَن",
+      "root": "",
+      "lemma": "مَن",
+      "pos": "REL",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "man",
+          "source_form_ar": "مَن",
+          "pos": "REL",
+          "root": "",
+          "lemma": "مَن",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:9:4": {
+      "text": "قَبۡلَهُۥ",
+      "root": "قبل",
+      "lemma": "قَبْل",
+      "pos": "T",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "qabola",
+          "source_form_ar": "قَبۡلَ",
+          "pos": "T",
+          "root": "قبل",
+          "lemma": "قَبْل",
+          "case": "ACC",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "hu,",
+          "source_form_ar": "هُ,",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:9:5": {
+      "text": "وَٱلۡمُؤۡتَفِكَـٰتُ",
+      "root": "افك",
+      "lemma": "مُؤْتَفِكَة",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "STEM",
+          "source_form": "mu&otafika`tu",
+          "source_form_ar": "مُؤْتَفِكَٰتُ",
+          "pos": "N",
+          "root": "افك",
+          "lemma": "مُؤْتَفِكَة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:9:6": {
+      "text": "بِٱلۡخَاطِئَةِ",
+      "root": "خطا",
+      "lemma": "خَاطِئَة",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "bi",
+          "source_form_ar": "بِ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "STEM",
+          "source_form": "xaATi}api",
+          "source_form_ar": "خَاطِئَةِ",
+          "pos": "N",
+          "root": "خطا",
+          "lemma": "خَاطِئَة",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:10:1": {
+      "text": "فَعَصَوۡا۟",
+      "root": "عصي",
+      "lemma": "عَصَا",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "EaSa",
+          "source_form_ar": "عَصَ",
+          "pos": "V",
+          "root": "عصي",
+          "lemma": "عَصَا",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "3MP",
+            "person": "3",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "woA@",
+          "source_form_ar": "وْا@",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "3MP",
+      "person": "3",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:10:2": {
+      "text": "رَسُولَ",
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "rasuwla",
+          "source_form_ar": "رَسُولَ",
+          "pos": "N",
+          "root": "رسل",
+          "lemma": "رَسُول",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:10:3": {
+      "text": "رَبِّهِمۡ",
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "rab~i",
+          "source_form_ar": "رَبِّ",
+          "pos": "N",
+          "root": "ربب",
+          "lemma": "رَبّ",
+          "case": "GEN",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "himo",
+          "source_form_ar": "هِمۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ]
+    },
+    "69:10:4": {
+      "text": "فَأَخَذَهُمۡ",
+      "root": "اخذ",
+      "lemma": "أَخَذَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": ">axa*a",
+          "source_form_ar": "أَخَذَ",
+          "pos": "V",
+          "root": "اخذ",
+          "lemma": "أَخَذَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "humo",
+          "source_form_ar": "هُمۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:10:5": {
+      "text": "أَخۡذَةࣰ",
+      "root": "اخذ",
+      "lemma": "أَخْذ",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">axo*apF",
+          "source_form_ar": "أَخۡذَةࣰ",
+          "pos": "N",
+          "root": "اخذ",
+          "lemma": "أَخْذ",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:10:6": {
+      "text": "رَّابِیَةً",
+      "root": "ربو",
+      "lemma": "رَّابِيَة",
+      "pos": "ADJ",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "r~aAbiyapF",
+          "source_form_ar": "رَّابِیَةً",
+          "pos": "ADJ",
+          "root": "ربو",
+          "lemma": "رَّابِيَة",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:11:1": {
+      "text": "إِنَّا",
+      "root": "",
+      "lemma": "إِنّ",
+      "pos": "ACC",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "<in~a",
+          "source_form_ar": "إِنَّ",
+          "pos": "ACC",
+          "root": "",
+          "lemma": "إِنّ",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "A",
+          "source_form_ar": "ا",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "P"
+          }
+        }
+      ]
+    },
+    "69:11:2": {
+      "text": "لَمَّا",
+      "root": "",
+      "lemma": "لَمَّا",
+      "pos": "T",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "lam~aA",
+          "source_form_ar": "لَمَّا",
+          "pos": "T",
+          "root": "",
+          "lemma": "لَمَّا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:11:3": {
+      "text": "طَغَا",
+      "root": "طغي",
+      "lemma": "طَغَىٰ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "TagaA",
+          "source_form_ar": "طَغَا",
+          "pos": "V",
+          "root": "طغي",
+          "lemma": "طَغَىٰ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:11:4": {
+      "text": "ٱلۡمَاۤءُ",
+      "root": "موه",
+      "lemma": "مَآء",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "maA^'u",
+          "source_form_ar": "مَاۤءُ",
+          "pos": "N",
+          "root": "موه",
+          "lemma": "مَآء",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:11:5": {
+      "text": "حَمَلۡنَـٰكُمۡ",
+      "root": "حمل",
+      "lemma": "حَمَلَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "Hamalo",
+          "source_form_ar": "حَمَلۡ",
+          "pos": "V",
+          "root": "حمل",
+          "lemma": "حَمَلَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "1P",
+            "person": "1",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "na`",
+          "source_form_ar": "نَ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "kumo",
+          "source_form_ar": "كُمۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "1P",
+      "person": "1",
+      "number": "P"
+    },
+    "69:11:6": {
+      "text": "فِی",
+      "root": "",
+      "lemma": "فِى",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "fiY",
+          "source_form_ar": "فِی",
+          "pos": "P",
+          "root": "",
+          "lemma": "فِى",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:11:7": {
+      "text": "ٱلۡجَارِیَةِ",
+      "root": "جري",
+      "lemma": "جَارِيَة",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "jaAriyapi",
+          "source_form_ar": "جَارِیَةِ",
+          "pos": "N",
+          "root": "جري",
+          "lemma": "جَارِيَة",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:12:1": {
+      "text": "لِنَجۡعَلَهَا",
+      "root": "جعل",
+      "lemma": "جَعَلَ",
+      "pos": "V",
+      "case": "SUBJ",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "li",
+          "source_form_ar": "لِ",
+          "pos": "PRP",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "najoEala",
+          "source_form_ar": "نَجۡعَلَ",
+          "pos": "V",
+          "root": "جعل",
+          "lemma": "جَعَلَ",
+          "case": "SUBJ",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "person_gender_number": "1P",
+            "person": "1",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "haA",
+          "source_form_ar": "هَا",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "person_gender_number": "1P",
+      "person": "1",
+      "number": "P"
+    },
+    "69:12:2": {
+      "text": "لَكُمۡ",
+      "root": "",
+      "lemma": "",
+      "pos": "PRON",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "la",
+          "source_form_ar": "لَ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "kumo",
+          "source_form_ar": "كُمۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:12:3": {
+      "text": "تَذۡكِرَةࣰ",
+      "root": "ذكر",
+      "lemma": "تَذْكِرَة",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "ta*okirapF",
+          "source_form_ar": "تَذۡكِرَةࣰ",
+          "pos": "N",
+          "root": "ذكر",
+          "lemma": "تَذْكِرَة",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:12:4": {
+      "text": "وَتَعِیَهَاۤ",
+      "root": "وعي",
+      "lemma": "تَعِيَ",
+      "pos": "V",
+      "case": "SUBJ",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "taEiya",
+          "source_form_ar": "تَعِیَ",
+          "pos": "V",
+          "root": "وعي",
+          "lemma": "تَعِيَ",
+          "case": "SUBJ",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "person_gender_number": "3FS",
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "haA^",
+          "source_form_ar": "هَاۤ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "person_gender_number": "3FS",
+      "person": "3",
+      "gender": "F",
+      "number": "S"
+    },
+    "69:12:5": {
+      "text": "أُذُنࣱ",
+      "root": "اذن",
+      "lemma": "أُذُنٌ",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">u*unN",
+          "source_form_ar": "أُذُنࣱ",
+          "pos": "N",
+          "root": "اذن",
+          "lemma": "أُذُنٌ",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:12:6": {
+      "text": "وَ",
+      "root": "وعي",
+      "lemma": "وَٰعِيَة",
+      "pos": "ADJ",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "wa`EiyapN",
+          "source_form_ar": "وَٰعِيَةٌ",
+          "pos": "ADJ",
+          "root": "وعي",
+          "lemma": "وَٰعِيَة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:13:1": {
+      "text": "فَإِذَا",
+      "root": "",
+      "lemma": "إِذَا",
+      "pos": "T",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "<i*aA",
+          "source_form_ar": "إِذَا",
+          "pos": "T",
+          "root": "",
+          "lemma": "إِذَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:13:2": {
+      "text": "نُفِخَ",
+      "root": "نفخ",
+      "lemma": "نَفَخَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "nufixa",
+          "source_form_ar": "نُفِخَ",
+          "pos": "V",
+          "root": "نفخ",
+          "lemma": "نَفَخَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "PASS",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "PASS",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:13:3": {
+      "text": "فِی",
+      "root": "",
+      "lemma": "فِى",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "fiY",
+          "source_form_ar": "فِی",
+          "pos": "P",
+          "root": "",
+          "lemma": "فِى",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:13:4": {
+      "text": "ٱلصُّورِ",
+      "root": "صور",
+      "lemma": "صُّور",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{l",
+          "source_form_ar": "ٱل",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "S~uwri",
+          "source_form_ar": "صُّورِ",
+          "pos": "N",
+          "root": "صور",
+          "lemma": "صُّور",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:13:5": {
+      "text": "نَفۡخَةࣱ",
+      "root": "نفخ",
+      "lemma": "نَفْخَة",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "nafoxapN",
+          "source_form_ar": "نَفۡخَةࣱ",
+          "pos": "N",
+          "root": "نفخ",
+          "lemma": "نَفْخَة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:13:6": {
+      "text": "وَ",
+      "root": "وحد",
+      "lemma": "وَٰحِدَة",
+      "pos": "ADJ",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "wa`HidapN",
+          "source_form_ar": "وَٰحِدَةٌ",
+          "pos": "ADJ",
+          "root": "وحد",
+          "lemma": "وَٰحِدَة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:14:1": {
+      "text": "وَحُمِلَتِ",
+      "root": "حمل",
+      "lemma": "حَمَلَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "Humilati",
+          "source_form_ar": "حُمِلَتِ",
+          "pos": "V",
+          "root": "حمل",
+          "lemma": "حَمَلَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "PASS",
+            "person_gender_number": "3FS",
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "PASS",
+      "person_gender_number": "3FS",
+      "person": "3",
+      "gender": "F",
+      "number": "S"
+    },
+    "69:14:2": {
+      "text": "ٱلۡأَرۡضُ",
+      "root": "ارض",
+      "lemma": "أَرْض",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": ">aroDu",
+          "source_form_ar": "أَرۡضُ",
+          "pos": "N",
+          "root": "ارض",
+          "lemma": "أَرْض",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:14:3": {
+      "text": "وَٱلۡجِبَالُ",
+      "root": "جبل",
+      "lemma": "جَبَل",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "STEM",
+          "source_form": "jibaAlu",
+          "source_form_ar": "جِبَالُ",
+          "pos": "N",
+          "root": "جبل",
+          "lemma": "جَبَل",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:14:4": {
+      "text": "فَدُكَّتَا",
+      "root": "دكك",
+      "lemma": "دُكَّتِ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "duk~a",
+          "source_form_ar": "دُكَّ",
+          "pos": "V",
+          "root": "دكك",
+          "lemma": "دُكَّتِ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "PASS",
+            "person_gender_number": "3FD",
+            "person": "3",
+            "gender": "F",
+            "number": "D"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "taA",
+          "source_form_ar": "تَا",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "F",
+            "number": "D"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "PASS",
+      "person_gender_number": "3FD",
+      "person": "3",
+      "gender": "F",
+      "number": "D"
+    },
+    "69:14:5": {
+      "text": "دَكَّةࣰ",
+      "root": "دكك",
+      "lemma": "دَكَّة",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "dak~apF",
+          "source_form_ar": "دَكَّةࣰ",
+          "pos": "N",
+          "root": "دكك",
+          "lemma": "دَكَّة",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:14:6": {
+      "text": "وَ",
+      "root": "وحد",
+      "lemma": "وَٰحِدَة",
+      "pos": "ADJ",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "wa`HidapF",
+          "source_form_ar": "وَٰحِدَةً",
+          "pos": "ADJ",
+          "root": "وحد",
+          "lemma": "وَٰحِدَة",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:15:1": {
+      "text": "فَیَوۡمَىِٕذࣲ",
+      "root": "",
+      "lemma": "يَوْمَئِذ",
+      "pos": "T",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "RSLT",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "yawoma}i*K",
+          "source_form_ar": "يَوْمَئِذٍ",
+          "pos": "T",
+          "root": "",
+          "lemma": "يَوْمَئِذ",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:15:2": {
+      "text": "وَقَعَتِ",
+      "root": "وقع",
+      "lemma": "وَقَعَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "waqaEati",
+          "source_form_ar": "وَقَعَتِ",
+          "pos": "V",
+          "root": "وقع",
+          "lemma": "وَقَعَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "3FS",
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "3FS",
+      "person": "3",
+      "gender": "F",
+      "number": "S"
+    },
+    "69:15:3": {
+      "text": "ٱلۡوَاقِعَةُ",
+      "root": "وقع",
+      "lemma": "وَاقِعَة",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "waAqiEapu",
+          "source_form_ar": "وَاقِعَةُ",
+          "pos": "N",
+          "root": "وقع",
+          "lemma": "وَاقِعَة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:16:1": {
+      "text": "وَٱنشَقَّتِ",
+      "root": "شقق",
+      "lemma": "ٱنشَقَّ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "{n$aq~ati",
+          "source_form_ar": "ٱنشَقَّتِ",
+          "pos": "V",
+          "root": "شقق",
+          "lemma": "ٱنشَقَّ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "form": "VII",
+            "person_gender_number": "3FS",
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "form": "VII",
+      "person_gender_number": "3FS",
+      "person": "3",
+      "gender": "F",
+      "number": "S"
+    },
+    "69:16:2": {
+      "text": "ٱلسَّمَاۤءُ",
+      "root": "سمو",
+      "lemma": "سَمَآء",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{l",
+          "source_form_ar": "ٱل",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "s~amaA^'u",
+          "source_form_ar": "سَّمَاۤءُ",
+          "pos": "N",
+          "root": "سمو",
+          "lemma": "سَمَآء",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:16:3": {
+      "text": "فَهِیَ",
+      "root": "",
+      "lemma": "",
+      "pos": "PRON",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "hiYa",
+          "source_form_ar": "هِیَ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:16:4": {
+      "text": "یَوۡمَىِٕذࣲ",
+      "root": "",
+      "lemma": "يَوْمَئِذ",
+      "pos": "T",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "yawoma}i*K",
+          "source_form_ar": "يَوْمَئِذٍ",
+          "pos": "T",
+          "root": "",
+          "lemma": "يَوْمَئِذ",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:16:5": {
+      "text": "وَاهِیَةࣱ",
+      "root": "وهي",
+      "lemma": "وَاهِيَة",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "waAhiyapN",
+          "source_form_ar": "وَاهِیَةࣱ",
+          "pos": "N",
+          "root": "وهي",
+          "lemma": "وَاهِيَة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:17:1": {
+      "text": "وَٱلۡمَلَكُ",
+      "root": "ملك",
+      "lemma": "مَلَك",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CIRC",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "STEM",
+          "source_form": "malaku",
+          "source_form_ar": "مَلَكُ",
+          "pos": "N",
+          "root": "ملك",
+          "lemma": "مَلَك",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:17:2": {
+      "text": "عَلَىٰۤ",
+      "root": "",
+      "lemma": "عَلَىٰ",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "EalaY`^",
+          "source_form_ar": "عَلَىٰۤ",
+          "pos": "P",
+          "root": "",
+          "lemma": "عَلَىٰ",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:17:3": {
+      "text": "أَرۡجَاۤىِٕهَاۚ",
+      "root": "رجو",
+      "lemma": "أَرْجَآئ",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">arojaA^}i",
+          "source_form_ar": "أَرْجَآئِ",
+          "pos": "N",
+          "root": "رجو",
+          "lemma": "أَرْجَآئ",
+          "case": "GEN",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "haA",
+          "source_form_ar": "هَاۚ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:17:4": {
+      "text": "وَیَحۡمِلُ",
+      "root": "حمل",
+      "lemma": "حَمَلَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "yaHomilu",
+          "source_form_ar": "یَحۡمِلُ",
+          "pos": "V",
+          "root": "حمل",
+          "lemma": "حَمَلَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:17:5": {
+      "text": "عَرۡشَ",
+      "root": "عرش",
+      "lemma": "عَرْش",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "Earo$a",
+          "source_form_ar": "عَرۡشَ",
+          "pos": "N",
+          "root": "عرش",
+          "lemma": "عَرْش",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:17:6": {
+      "text": "رَبِّكَ",
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "rab~i",
+          "source_form_ar": "رَبِّ",
+          "pos": "N",
+          "root": "ربب",
+          "lemma": "رَبّ",
+          "case": "GEN",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "ka",
+          "source_form_ar": "كَ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:17:7": {
+      "text": "فَوۡقَهُمۡ",
+      "root": "فوق",
+      "lemma": "فَوْق",
+      "pos": "LOC",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "fawoqa",
+          "source_form_ar": "فَوۡقَ",
+          "pos": "LOC",
+          "root": "فوق",
+          "lemma": "فَوْق",
+          "case": "ACC",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "humo",
+          "source_form_ar": "هُمۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ]
+    },
+    "69:17:8": {
+      "text": "یَوۡمَىِٕذࣲ",
+      "root": "",
+      "lemma": "يَوْمَئِذ",
+      "pos": "T",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "yawoma}i*K",
+          "source_form_ar": "يَوْمَئِذٍ",
+          "pos": "T",
+          "root": "",
+          "lemma": "يَوْمَئِذ",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:17:9": {
+      "text": "ثَمَـٰنِیَةࣱ",
+      "root": "ثمن",
+      "lemma": "ثَمَٰنِيَة",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "vama`niyapN",
+          "source_form_ar": "ثَمَٰنِيَةٌ",
+          "pos": "N",
+          "root": "ثمن",
+          "lemma": "ثَمَٰنِيَة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:18:1": {
+      "text": "یَوۡمَىِٕذࣲ",
+      "root": "",
+      "lemma": "يَوْمَئِذ",
+      "pos": "T",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "yawoma}i*K",
+          "source_form_ar": "يَوْمَئِذٍ",
+          "pos": "T",
+          "root": "",
+          "lemma": "يَوْمَئِذ",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:18:2": {
+      "text": "تُعۡرَضُونَ",
+      "root": "عرض",
+      "lemma": "عَرَضَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "tuEoraDu",
+          "source_form_ar": "تُعۡرَضُ",
+          "pos": "V",
+          "root": "عرض",
+          "lemma": "عَرَضَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "PASS",
+            "person_gender_number": "2MP",
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "wna",
+          "source_form_ar": "ونَ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "PASS",
+      "person_gender_number": "2MP",
+      "person": "2",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:18:3": {
+      "text": "لَا",
+      "root": "",
+      "lemma": "لَا",
+      "pos": "NEG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "laA",
+          "source_form_ar": "لَا",
+          "pos": "NEG",
+          "root": "",
+          "lemma": "لَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:18:4": {
+      "text": "تَخۡفَىٰ",
+      "root": "خفي",
+      "lemma": "يَخْفَىٰ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "taxofaY`",
+          "source_form_ar": "تَخۡفَىٰ",
+          "pos": "V",
+          "root": "خفي",
+          "lemma": "يَخْفَىٰ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "person_gender_number": "2MS",
+            "person": "2",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "person_gender_number": "2MS",
+      "person": "2",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:18:5": {
+      "text": "مِنكُمۡ",
+      "root": "",
+      "lemma": "مِن",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "min",
+          "source_form_ar": "مِن",
+          "pos": "P",
+          "root": "",
+          "lemma": "مِن",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "kumo",
+          "source_form_ar": "كُمۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ]
+    },
+    "69:18:6": {
+      "text": "خَافِیَةࣱ",
+      "root": "خفي",
+      "lemma": "خَافِيَة",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "xaAfiyapN",
+          "source_form_ar": "خَافِیَةࣱ",
+          "pos": "N",
+          "root": "خفي",
+          "lemma": "خَافِيَة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:19:1": {
+      "text": "فَأَمَّا",
+      "root": "",
+      "lemma": "أَمَّا",
+      "pos": "EXL",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": ">am~aA",
+          "source_form_ar": "أَمَّا",
+          "pos": "EXL",
+          "root": "",
+          "lemma": "أَمَّا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:19:2": {
+      "text": "مَنۡ",
+      "root": "",
+      "lemma": "مَن",
+      "pos": "COND",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "mano",
+          "source_form_ar": "مَنۡ",
+          "pos": "COND",
+          "root": "",
+          "lemma": "مَن",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:19:3": {
+      "text": "أُوتِیَ",
+      "root": "اتي",
+      "lemma": "آتَى",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">uwtiYa",
+          "source_form_ar": "أُوتِیَ",
+          "pos": "V",
+          "root": "اتي",
+          "lemma": "آتَى",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "PASS",
+            "form": "IV",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "PASS",
+      "form": "IV",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:19:4": {
+      "text": "كِتَـٰبَهُۥ",
+      "root": "كتب",
+      "lemma": "كِتَٰب",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "kita`ba",
+          "source_form_ar": "كِتَٰبَ",
+          "pos": "N",
+          "root": "كتب",
+          "lemma": "كِتَٰب",
+          "case": "ACC",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "hu,",
+          "source_form_ar": "هُ,",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:19:5": {
+      "text": "بِیَمِینِهِۦ",
+      "root": "يمن",
+      "lemma": "يَمِين",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "bi",
+          "source_form_ar": "بِ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "yamiyni",
+          "source_form_ar": "یَمِینِ",
+          "pos": "N",
+          "root": "يمن",
+          "lemma": "يَمِين",
+          "case": "GEN",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "hi.",
+          "source_form_ar": "هِ.",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:19:6": {
+      "text": "فَیَقُولُ",
+      "root": "قول",
+      "lemma": "قَالَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "RSLT",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "yaquwlu",
+          "source_form_ar": "یَقُولُ",
+          "pos": "V",
+          "root": "قول",
+          "lemma": "قَالَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:19:7": {
+      "text": "هَاۤؤُمُ",
+      "root": "",
+      "lemma": "هَآؤُم",
+      "pos": "IMPN",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "haA^&umu",
+          "source_form_ar": "هَاۤؤُمُ",
+          "pos": "IMPN",
+          "root": "",
+          "lemma": "هَآؤُم",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:19:8": {
+      "text": "ٱقۡرَءُوا۟",
+      "root": "قرا",
+      "lemma": "قَرَأَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "{qora'u",
+          "source_form_ar": "ٱقۡرَءُ",
+          "pos": "V",
+          "root": "قرا",
+          "lemma": "قَرَأَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPV",
+            "voice": "ACT",
+            "person_gender_number": "2MP",
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "wA@",
+          "source_form_ar": "وا@",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "IMPV",
+      "voice": "ACT",
+      "person_gender_number": "2MP",
+      "person": "2",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:19:9": {
+      "text": "كِتَـٰبِیَهۡ",
+      "root": "كتب",
+      "lemma": "كِتَٰب",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "kita`bi",
+          "source_form_ar": "كِتَٰبِ",
+          "pos": "N",
+          "root": "كتب",
+          "lemma": "كِتَٰب",
+          "case": "ACC",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "yaho",
+          "source_form_ar": "یَهۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:20:1": {
+      "text": "إِنِّی",
+      "root": "",
+      "lemma": "إِنّ",
+      "pos": "ACC",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "<in~i",
+          "source_form_ar": "إِنِّ",
+          "pos": "ACC",
+          "root": "",
+          "lemma": "إِنّ",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "Y",
+          "source_form_ar": "ی",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:20:2": {
+      "text": "ظَنَنتُ",
+      "root": "ظنن",
+      "lemma": "ظَنَّ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "Zanan",
+          "source_form_ar": "ظَنَن",
+          "pos": "V",
+          "root": "ظنن",
+          "lemma": "ظَنَّ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "1S",
+            "person": "1",
+            "number": "S"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "tu",
+          "source_form_ar": "تُ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "1S",
+      "person": "1",
+      "number": "S"
+    },
+    "69:20:3": {
+      "text": "أَنِّی",
+      "root": "",
+      "lemma": "أَنّ",
+      "pos": "ACC",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">an~i",
+          "source_form_ar": "أَنِّ",
+          "pos": "ACC",
+          "root": "",
+          "lemma": "أَنّ",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "Y",
+          "source_form_ar": "ی",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:20:4": {
+      "text": "مُلَـٰقٍ",
+      "root": "لقي",
+      "lemma": "مُلَٰق",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "mula`qK",
+          "source_form_ar": "مُلَٰقٍ",
+          "pos": "N",
+          "root": "لقي",
+          "lemma": "مُلَٰق",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:20:5": {
+      "text": "حِسَابِیَهۡ",
+      "root": "حسب",
+      "lemma": "حِسَاب",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "HisaAbi",
+          "source_form_ar": "حِسَابِ",
+          "pos": "N",
+          "root": "حسب",
+          "lemma": "حِسَاب",
+          "case": "ACC",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "yaho",
+          "source_form_ar": "یَهۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:21:1": {
+      "text": "فَهُوَ",
+      "root": "",
+      "lemma": "",
+      "pos": "PRON",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "huwa",
+          "source_form_ar": "هُوَ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:21:2": {
+      "text": "فِی",
+      "root": "",
+      "lemma": "فِى",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "fiY",
+          "source_form_ar": "فِی",
+          "pos": "P",
+          "root": "",
+          "lemma": "فِى",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:21:3": {
+      "text": "عِیشَةࣲ",
+      "root": "عيش",
+      "lemma": "عِيشَة",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "Eiy$apK",
+          "source_form_ar": "عِیشَةࣲ",
+          "pos": "N",
+          "root": "عيش",
+          "lemma": "عِيشَة",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:21:4": {
+      "text": "رَّاضِیَةࣲ",
+      "root": "رضو",
+      "lemma": "رَاضِيَة",
+      "pos": "ADJ",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "r~aADiyapK",
+          "source_form_ar": "رَّاضِیَةࣲ",
+          "pos": "ADJ",
+          "root": "رضو",
+          "lemma": "رَاضِيَة",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:22:1": {
+      "text": "فِی",
+      "root": "",
+      "lemma": "فِى",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "fiY",
+          "source_form_ar": "فِی",
+          "pos": "P",
+          "root": "",
+          "lemma": "فِى",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:22:2": {
+      "text": "جَنَّةٍ",
+      "root": "جنن",
+      "lemma": "جَنَّة",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "jan~apK",
+          "source_form_ar": "جَنَّةٍ",
+          "pos": "N",
+          "root": "جنن",
+          "lemma": "جَنَّة",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:22:3": {
+      "text": "عَالِیَةࣲ",
+      "root": "علو",
+      "lemma": "عَالِيَة",
+      "pos": "ADJ",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "EaAliyapK",
+          "source_form_ar": "عَالِیَةࣲ",
+          "pos": "ADJ",
+          "root": "علو",
+          "lemma": "عَالِيَة",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:23:1": {
+      "text": "قُطُوفُهَا",
+      "root": "قطف",
+      "lemma": "قُطُوف",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "quTuwfu",
+          "source_form_ar": "قُطُوفُ",
+          "pos": "N",
+          "root": "قطف",
+          "lemma": "قُطُوف",
+          "case": "NOM",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "haA",
+          "source_form_ar": "هَا",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:23:2": {
+      "text": "دَانِیَةࣱ",
+      "root": "دنو",
+      "lemma": "دَانِيَة",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "daAniyapN",
+          "source_form_ar": "دَانِیَةࣱ",
+          "pos": "N",
+          "root": "دنو",
+          "lemma": "دَانِيَة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:24:1": {
+      "text": "كُلُوا۟",
+      "root": "اكل",
+      "lemma": "أَكَلَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "kulu",
+          "source_form_ar": "كُلُ",
+          "pos": "V",
+          "root": "اكل",
+          "lemma": "أَكَلَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPV",
+            "voice": "ACT",
+            "person_gender_number": "2MP",
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "wA@",
+          "source_form_ar": "وا@",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "IMPV",
+      "voice": "ACT",
+      "person_gender_number": "2MP",
+      "person": "2",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:24:2": {
+      "text": "وَٱشۡرَبُوا۟",
+      "root": "شرب",
+      "lemma": "شَرِبَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "{$orabu",
+          "source_form_ar": "ٱشۡرَبُ",
+          "pos": "V",
+          "root": "شرب",
+          "lemma": "شَرِبَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPV",
+            "voice": "ACT",
+            "person_gender_number": "2MP",
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "wA@",
+          "source_form_ar": "وا@",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "IMPV",
+      "voice": "ACT",
+      "person_gender_number": "2MP",
+      "person": "2",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:24:3": {
+      "text": "هَنِیۤـَٔۢا",
+      "root": "هنا",
+      "lemma": "هَنِيٓ_#",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "haniy^_#F[A",
+          "source_form_ar": "هَنِيٓ_#ً[ا",
+          "pos": "N",
+          "root": "هنا",
+          "lemma": "هَنِيٓ_#",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:24:4": {
+      "text": "بِمَاۤ",
+      "root": "",
+      "lemma": "مَا",
+      "pos": "REL",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "bi",
+          "source_form_ar": "بِ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "maA^",
+          "source_form_ar": "مَاۤ",
+          "pos": "REL",
+          "root": "",
+          "lemma": "مَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:24:5": {
+      "text": "أَسۡلَفۡتُمۡ",
+      "root": "سلف",
+      "lemma": "أَسْلَفَتْ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">asolafo",
+          "source_form_ar": "أَسۡلَفۡ",
+          "pos": "V",
+          "root": "سلف",
+          "lemma": "أَسْلَفَتْ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "form": "IV",
+            "person_gender_number": "2MP",
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "tumo",
+          "source_form_ar": "تُمۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "form": "IV",
+      "person_gender_number": "2MP",
+      "person": "2",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:24:6": {
+      "text": "فِی",
+      "root": "",
+      "lemma": "فِى",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "fiY",
+          "source_form_ar": "فِی",
+          "pos": "P",
+          "root": "",
+          "lemma": "فِى",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:24:7": {
+      "text": "ٱلۡأَیَّامِ",
+      "root": "يوم",
+      "lemma": "يَوْم",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": ">ay~aAmi",
+          "source_form_ar": "أَیَّامِ",
+          "pos": "N",
+          "root": "يوم",
+          "lemma": "يَوْم",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:24:8": {
+      "text": "ٱلۡخَالِیَةِ",
+      "root": "خلو",
+      "lemma": "خَالِيَة",
+      "pos": "ADJ",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "xaAliyapi",
+          "source_form_ar": "خَالِیَةِ",
+          "pos": "ADJ",
+          "root": "خلو",
+          "lemma": "خَالِيَة",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:25:1": {
+      "text": "وَأَمَّا",
+      "root": "",
+      "lemma": "أَمَّا",
+      "pos": "EXL",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": ">am~aA",
+          "source_form_ar": "أَمَّا",
+          "pos": "EXL",
+          "root": "",
+          "lemma": "أَمَّا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:25:2": {
+      "text": "مَنۡ",
+      "root": "",
+      "lemma": "مَن",
+      "pos": "COND",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "mano",
+          "source_form_ar": "مَنۡ",
+          "pos": "COND",
+          "root": "",
+          "lemma": "مَن",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:25:3": {
+      "text": "أُوتِیَ",
+      "root": "اتي",
+      "lemma": "آتَى",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">uwtiYa",
+          "source_form_ar": "أُوتِیَ",
+          "pos": "V",
+          "root": "اتي",
+          "lemma": "آتَى",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "PASS",
+            "form": "IV",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "PASS",
+      "form": "IV",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:25:4": {
+      "text": "كِتَـٰبَهُۥ",
+      "root": "كتب",
+      "lemma": "كِتَٰب",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "kita`ba",
+          "source_form_ar": "كِتَٰبَ",
+          "pos": "N",
+          "root": "كتب",
+          "lemma": "كِتَٰب",
+          "case": "ACC",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "hu,",
+          "source_form_ar": "هُ,",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:25:5": {
+      "text": "بِشِمَالِهِۦ",
+      "root": "شمل",
+      "lemma": "شِّمَال",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "bi",
+          "source_form_ar": "بِ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "$imaAli",
+          "source_form_ar": "شِمَالِ",
+          "pos": "N",
+          "root": "شمل",
+          "lemma": "شِّمَال",
+          "case": "GEN",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "hi.",
+          "source_form_ar": "هِ.",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:25:6": {
+      "text": "فَیَقُولُ",
+      "root": "قول",
+      "lemma": "قَالَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "RSLT",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "yaquwlu",
+          "source_form_ar": "یَقُولُ",
+          "pos": "V",
+          "root": "قول",
+          "lemma": "قَالَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:25:7": {
+      "text": "یَـٰلَیۡتَنِی",
+      "root": "",
+      "lemma": "لَيْت",
+      "pos": "ACC",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "ya`",
+          "source_form_ar": "یَ",
+          "pos": "VOC",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "layota",
+          "source_form_ar": "لَیۡتَ",
+          "pos": "ACC",
+          "root": "",
+          "lemma": "لَيْت",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "niY",
+          "source_form_ar": "نِی",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:25:8": {
+      "text": "لَمۡ",
+      "root": "",
+      "lemma": "لَم",
+      "pos": "NEG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "lamo",
+          "source_form_ar": "لَمۡ",
+          "pos": "NEG",
+          "root": "",
+          "lemma": "لَم",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:25:9": {
+      "text": "أُوتَ",
+      "root": "اتي",
+      "lemma": "آتَى",
+      "pos": "V",
+      "case": "JUS",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">uwta",
+          "source_form_ar": "أُوتَ",
+          "pos": "V",
+          "root": "اتي",
+          "lemma": "آتَى",
+          "case": "JUS",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "PASS",
+            "form": "IV",
+            "person_gender_number": "3FS",
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "PASS",
+      "form": "IV",
+      "person_gender_number": "3FS",
+      "person": "3",
+      "gender": "F",
+      "number": "S"
+    },
+    "69:25:10": {
+      "text": "كِتَـٰبِیَهۡ",
+      "root": "كتب",
+      "lemma": "كِتَٰب",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "kita`biya",
+          "source_form_ar": "كِتَٰبِيَ",
+          "pos": "N",
+          "root": "كتب",
+          "lemma": "كِتَٰب",
+          "case": "NOM",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "ho",
+          "source_form_ar": "هۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:26:1": {
+      "text": "وَلَمۡ",
+      "root": "",
+      "lemma": "لَم",
+      "pos": "NEG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "lamo",
+          "source_form_ar": "لَمۡ",
+          "pos": "NEG",
+          "root": "",
+          "lemma": "لَم",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:26:2": {
+      "text": "أَدۡرِ",
+      "root": "دري",
+      "lemma": "تَدْرِى",
+      "pos": "V",
+      "case": "JUS",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">adori",
+          "source_form_ar": "أَدۡرِ",
+          "pos": "V",
+          "root": "دري",
+          "lemma": "تَدْرِى",
+          "case": "JUS",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "person_gender_number": "1S",
+            "person": "1",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "person_gender_number": "1S",
+      "person": "1",
+      "number": "S"
+    },
+    "69:26:3": {
+      "text": "مَا",
+      "root": "",
+      "lemma": "مَا",
+      "pos": "REL",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "maA",
+          "source_form_ar": "مَا",
+          "pos": "REL",
+          "root": "",
+          "lemma": "مَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:26:4": {
+      "text": "حِسَابِیَهۡ",
+      "root": "حسب",
+      "lemma": "حِسَاب",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "HisaAbi",
+          "source_form_ar": "حِسَابِ",
+          "pos": "N",
+          "root": "حسب",
+          "lemma": "حِسَاب",
+          "case": "NOM",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "yaho",
+          "source_form_ar": "یَهۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:27:1": {
+      "text": "یَـٰلَیۡتَهَا",
+      "root": "",
+      "lemma": "لَيْت",
+      "pos": "ACC",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "ya`",
+          "source_form_ar": "یَ",
+          "pos": "VOC",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "layota",
+          "source_form_ar": "لَیۡتَ",
+          "pos": "ACC",
+          "root": "",
+          "lemma": "لَيْت",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "haA",
+          "source_form_ar": "هَا",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:27:2": {
+      "text": "كَانَتِ",
+      "root": "كون",
+      "lemma": "كَانَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "kaAnati",
+          "source_form_ar": "كَانَتِ",
+          "pos": "V",
+          "root": "كون",
+          "lemma": "كَانَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "3FS",
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "3FS",
+      "person": "3",
+      "gender": "F",
+      "number": "S"
+    },
+    "69:27:3": {
+      "text": "ٱلۡقَاضِیَةَ",
+      "root": "قضي",
+      "lemma": "قَاضِيَة",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "qaADiyapa",
+          "source_form_ar": "قَاضِیَةَ",
+          "pos": "N",
+          "root": "قضي",
+          "lemma": "قَاضِيَة",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:28:1": {
+      "text": "مَاۤ",
+      "root": "",
+      "lemma": "مَا",
+      "pos": "NEG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "maA^",
+          "source_form_ar": "مَاۤ",
+          "pos": "NEG",
+          "root": "",
+          "lemma": "مَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:28:2": {
+      "text": "أَغۡنَىٰ",
+      "root": "غني",
+      "lemma": "أَغْنَىٰ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">agonaY`",
+          "source_form_ar": "أَغۡنَىٰ",
+          "pos": "V",
+          "root": "غني",
+          "lemma": "أَغْنَىٰ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:28:3": {
+      "text": "عَنِّی",
+      "root": "",
+      "lemma": "عَن",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "Ean~i",
+          "source_form_ar": "عَنِّ",
+          "pos": "P",
+          "root": "",
+          "lemma": "عَن",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "Y",
+          "source_form_ar": "ی",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:28:4": {
+      "text": "مَالِیَهۡۜ",
+      "root": "مول",
+      "lemma": "مَال",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "maAli",
+          "source_form_ar": "مَالِ",
+          "pos": "N",
+          "root": "مول",
+          "lemma": "مَال",
+          "case": "NOM",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "yaho",
+          "source_form_ar": "یَهۡۜ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:29:1": {
+      "text": "هَلَكَ",
+      "root": "هلك",
+      "lemma": "هَلَكَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "halaka",
+          "source_form_ar": "هَلَكَ",
+          "pos": "V",
+          "root": "هلك",
+          "lemma": "هَلَكَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:29:2": {
+      "text": "عَنِّی",
+      "root": "",
+      "lemma": "عَن",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "Ean~i",
+          "source_form_ar": "عَنِّ",
+          "pos": "P",
+          "root": "",
+          "lemma": "عَن",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "Y",
+          "source_form_ar": "ی",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:29:3": {
+      "text": "سُلۡطَـٰنِیَهۡ",
+      "root": "سلط",
+      "lemma": "سُلْطَٰن",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "suloTa`ni",
+          "source_form_ar": "سُلْطَٰنِ",
+          "pos": "N",
+          "root": "سلط",
+          "lemma": "سُلْطَٰن",
+          "case": "NOM",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "yaho",
+          "source_form_ar": "یَهۡ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:30:1": {
+      "text": "خُذُوهُ",
+      "root": "اخذ",
+      "lemma": "أَخَذَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "xu*u",
+          "source_form_ar": "خُذُ",
+          "pos": "V",
+          "root": "اخذ",
+          "lemma": "أَخَذَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPV",
+            "voice": "ACT",
+            "person_gender_number": "2MP",
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "w",
+          "source_form_ar": "و",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "hu",
+          "source_form_ar": "هُ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPV",
+      "voice": "ACT",
+      "person_gender_number": "2MP",
+      "person": "2",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:30:2": {
+      "text": "فَغُلُّوهُ",
+      "root": "غلل",
+      "lemma": "غَلَّ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "gul~u",
+          "source_form_ar": "غُلُّ",
+          "pos": "V",
+          "root": "غلل",
+          "lemma": "غَلَّ",
+          "case": "",
+          "features": {
+            "aspect": "IMPV",
+            "voice": "ACT",
+            "person_gender_number": "2MP",
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "w",
+          "source_form_ar": "و",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 4,
+          "type": "SUFFIX",
+          "source_form": "hu",
+          "source_form_ar": "هُ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPV",
+      "voice": "ACT",
+      "person_gender_number": "2MP",
+      "person": "2",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:31:1": {
+      "text": "ثُمَّ",
+      "root": "",
+      "lemma": "ثُمّ",
+      "pos": "CONJ",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "vum~a",
+          "source_form_ar": "ثُمَّ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "ثُمّ",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:31:2": {
+      "text": "ٱلۡجَحِیمَ",
+      "root": "جحم",
+      "lemma": "جَحِيم",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "jaHiyma",
+          "source_form_ar": "جَحِیمَ",
+          "pos": "N",
+          "root": "جحم",
+          "lemma": "جَحِيم",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:31:3": {
+      "text": "صَلُّوهُ",
+      "root": "صلي",
+      "lemma": "صَلُّ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "Sal~u",
+          "source_form_ar": "صَلُّ",
+          "pos": "V",
+          "root": "صلي",
+          "lemma": "صَلُّ",
+          "case": "",
+          "features": {
+            "aspect": "IMPV",
+            "voice": "ACT",
+            "form": "II",
+            "person_gender_number": "2MP",
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "w",
+          "source_form_ar": "و",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "hu",
+          "source_form_ar": "هُ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPV",
+      "voice": "ACT",
+      "form": "II",
+      "person_gender_number": "2MP",
+      "person": "2",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:32:1": {
+      "text": "ثُمَّ",
+      "root": "",
+      "lemma": "ثُمّ",
+      "pos": "CONJ",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "vum~a",
+          "source_form_ar": "ثُمَّ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "ثُمّ",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:32:2": {
+      "text": "فِی",
+      "root": "",
+      "lemma": "فِى",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "fiY",
+          "source_form_ar": "فِی",
+          "pos": "P",
+          "root": "",
+          "lemma": "فِى",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:32:3": {
+      "text": "سِلۡسِلَةࣲ",
+      "root": "سلسل",
+      "lemma": "سِلْسِلَة",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "silosilapK",
+          "source_form_ar": "سِلۡسِلَةࣲ",
+          "pos": "N",
+          "root": "سلسل",
+          "lemma": "سِلْسِلَة",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:32:4": {
+      "text": "ذَرۡعُهَا",
+      "root": "ذرع",
+      "lemma": "ذَرْع",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "*aroEu",
+          "source_form_ar": "ذَرۡعُ",
+          "pos": "N",
+          "root": "ذرع",
+          "lemma": "ذَرْع",
+          "case": "NOM",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "haA",
+          "source_form_ar": "هَا",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "F",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:32:5": {
+      "text": "سَبۡعُونَ",
+      "root": "سبع",
+      "lemma": "سَبْع",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "saboEuwna",
+          "source_form_ar": "سَبۡعُونَ",
+          "pos": "N",
+          "root": "سبع",
+          "lemma": "سَبْع",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:32:6": {
+      "text": "ذِرَاعࣰا",
+      "root": "ذرع",
+      "lemma": "ذِرَاع",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "*iraAEFA",
+          "source_form_ar": "ذِرَاعࣰا",
+          "pos": "N",
+          "root": "ذرع",
+          "lemma": "ذِرَاع",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:32:7": {
+      "text": "فَٱسۡلُكُوهُ",
+      "root": "سلك",
+      "lemma": "سَلَكَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "{soluku",
+          "source_form_ar": "ٱسۡلُكُ",
+          "pos": "V",
+          "root": "سلك",
+          "lemma": "سَلَكَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPV",
+            "voice": "ACT",
+            "person_gender_number": "2MP",
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "w",
+          "source_form_ar": "و",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 4,
+          "type": "SUFFIX",
+          "source_form": "hu",
+          "source_form_ar": "هُ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPV",
+      "voice": "ACT",
+      "person_gender_number": "2MP",
+      "person": "2",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:33:1": {
+      "text": "إِنَّهُۥ",
+      "root": "",
+      "lemma": "إِنّ",
+      "pos": "ACC",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "<in~a",
+          "source_form_ar": "إِنَّ",
+          "pos": "ACC",
+          "root": "",
+          "lemma": "إِنّ",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "hu,",
+          "source_form_ar": "هُ,",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:33:2": {
+      "text": "كَانَ",
+      "root": "كون",
+      "lemma": "كَانَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "kaAna",
+          "source_form_ar": "كَانَ",
+          "pos": "V",
+          "root": "كون",
+          "lemma": "كَانَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:33:3": {
+      "text": "لَا",
+      "root": "",
+      "lemma": "لَا",
+      "pos": "NEG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "laA",
+          "source_form_ar": "لَا",
+          "pos": "NEG",
+          "root": "",
+          "lemma": "لَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:33:4": {
+      "text": "یُؤۡمِنُ",
+      "root": "امن",
+      "lemma": "ءَامَنَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "yu&ominu",
+          "source_form_ar": "یُؤۡمِنُ",
+          "pos": "V",
+          "root": "امن",
+          "lemma": "ءَامَنَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "form": "IV",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "form": "IV",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:33:5": {
+      "text": "بِٱللَّهِ",
+      "root": "اله",
+      "lemma": "ٱللَّه",
+      "pos": "PN",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "bi",
+          "source_form_ar": "بِ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "{ll~ahi",
+          "source_form_ar": "ٱللَّهِ",
+          "pos": "PN",
+          "root": "اله",
+          "lemma": "ٱللَّه",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:33:6": {
+      "text": "ٱلۡعَظِیمِ",
+      "root": "عظم",
+      "lemma": "عَظِيم",
+      "pos": "ADJ",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "EaZiymi",
+          "source_form_ar": "عَظِیمِ",
+          "pos": "ADJ",
+          "root": "عظم",
+          "lemma": "عَظِيم",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:34:1": {
+      "text": "وَلَا",
+      "root": "",
+      "lemma": "لَا",
+      "pos": "NEG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "laA",
+          "source_form_ar": "لَا",
+          "pos": "NEG",
+          "root": "",
+          "lemma": "لَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:34:2": {
+      "text": "یَحُضُّ",
+      "root": "حضض",
+      "lemma": "يَحُضُّ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "yaHuD~u",
+          "source_form_ar": "یَحُضُّ",
+          "pos": "V",
+          "root": "حضض",
+          "lemma": "يَحُضُّ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:34:3": {
+      "text": "عَلَىٰ",
+      "root": "",
+      "lemma": "عَلَىٰ",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "EalaY`",
+          "source_form_ar": "عَلَىٰ",
+          "pos": "P",
+          "root": "",
+          "lemma": "عَلَىٰ",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:34:4": {
+      "text": "طَعَامِ",
+      "root": "طعم",
+      "lemma": "طَعَام",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "TaEaAmi",
+          "source_form_ar": "طَعَامِ",
+          "pos": "N",
+          "root": "طعم",
+          "lemma": "طَعَام",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:34:5": {
+      "text": "ٱلۡمِسۡكِینِ",
+      "root": "سكن",
+      "lemma": "مِسْكِين",
+      "pos": "ADJ",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "misokiyni",
+          "source_form_ar": "مِسۡكِینِ",
+          "pos": "ADJ",
+          "root": "سكن",
+          "lemma": "مِسْكِين",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:35:1": {
+      "text": "فَلَیۡسَ",
+      "root": "ليس",
+      "lemma": "لَّيْسَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "layosa",
+          "source_form_ar": "لَیۡسَ",
+          "pos": "V",
+          "root": "ليس",
+          "lemma": "لَّيْسَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:35:2": {
+      "text": "لَهُ",
+      "root": "",
+      "lemma": "",
+      "pos": "PRON",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "la",
+          "source_form_ar": "لَ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "hu",
+          "source_form_ar": "هُ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:35:3": {
+      "text": "ٱلۡیَوۡمَ",
+      "root": "يوم",
+      "lemma": "يَوْم",
+      "pos": "T",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "yawoma",
+          "source_form_ar": "یَوۡمَ",
+          "pos": "T",
+          "root": "يوم",
+          "lemma": "يَوْم",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:35:4": {
+      "text": "هَـٰهُنَا",
+      "root": "",
+      "lemma": "هُنَا",
+      "pos": "DEM",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "ha`",
+          "source_form_ar": "هَ",
+          "pos": "VOC",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "hunaA",
+          "source_form_ar": "هُنَا",
+          "pos": "DEM",
+          "root": "",
+          "lemma": "هُنَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:35:5": {
+      "text": "حَمِیمࣱ",
+      "root": "حمم",
+      "lemma": "حَمِيم",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "HamiymN",
+          "source_form_ar": "حَمِیمࣱ",
+          "pos": "N",
+          "root": "حمم",
+          "lemma": "حَمِيم",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:36:1": {
+      "text": "وَلَا",
+      "root": "",
+      "lemma": "لَا",
+      "pos": "NEG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "laA",
+          "source_form_ar": "لَا",
+          "pos": "NEG",
+          "root": "",
+          "lemma": "لَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:36:2": {
+      "text": "طَعَامٌ",
+      "root": "طعم",
+      "lemma": "طَعَام",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "TaEaAmN",
+          "source_form_ar": "طَعَامٌ",
+          "pos": "N",
+          "root": "طعم",
+          "lemma": "طَعَام",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:36:3": {
+      "text": "إِلَّا",
+      "root": "",
+      "lemma": "إِلَّا",
+      "pos": "RES",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "<il~aA",
+          "source_form_ar": "إِلَّا",
+          "pos": "RES",
+          "root": "",
+          "lemma": "إِلَّا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:36:4": {
+      "text": "مِنۡ",
+      "root": "",
+      "lemma": "مِن",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "mino",
+          "source_form_ar": "مِنۡ",
+          "pos": "P",
+          "root": "",
+          "lemma": "مِن",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:36:5": {
+      "text": "غِسۡلِینࣲ",
+      "root": "غسل",
+      "lemma": "غِسْلِين",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "gisoliynK",
+          "source_form_ar": "غِسۡلِینࣲ",
+          "pos": "N",
+          "root": "غسل",
+          "lemma": "غِسْلِين",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:37:1": {
+      "text": "لَّا",
+      "root": "",
+      "lemma": "لَا",
+      "pos": "NEG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "l~aA",
+          "source_form_ar": "لَّا",
+          "pos": "NEG",
+          "root": "",
+          "lemma": "لَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:37:2": {
+      "text": "یَأۡكُلُهُۥۤ",
+      "root": "اكل",
+      "lemma": "أَكَلَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "ya>okulu",
+          "source_form_ar": "یَأۡكُلُ",
+          "pos": "V",
+          "root": "اكل",
+          "lemma": "أَكَلَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "hu,^",
+          "source_form_ar": "هُ,ٓ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:37:3": {
+      "text": "إِلَّا",
+      "root": "",
+      "lemma": "إِلَّا",
+      "pos": "RES",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "<il~aA",
+          "source_form_ar": "إِلَّا",
+          "pos": "RES",
+          "root": "",
+          "lemma": "إِلَّا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:37:4": {
+      "text": "ٱلۡخَـٰطِـُٔونَ",
+      "root": "خطا",
+      "lemma": "خَٰطِ_#ِين",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "xa`Ti_#uwna",
+          "source_form_ar": "خَٰطِ_#ُونَ",
+          "pos": "N",
+          "root": "خطا",
+          "lemma": "خَٰطِ_#ِين",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:38:1": {
+      "text": "فَلَاۤ",
+      "root": "",
+      "lemma": "لَا",
+      "pos": "NEG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "laA^",
+          "source_form_ar": "لَاۤ",
+          "pos": "NEG",
+          "root": "",
+          "lemma": "لَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:38:2": {
+      "text": "أُقۡسِمُ",
+      "root": "قسم",
+      "lemma": "أَقْسَمُ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">uqosimu",
+          "source_form_ar": "أُقۡسِمُ",
+          "pos": "V",
+          "root": "قسم",
+          "lemma": "أَقْسَمُ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "form": "IV",
+            "person_gender_number": "1S",
+            "person": "1",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "form": "IV",
+      "person_gender_number": "1S",
+      "person": "1",
+      "number": "S"
+    },
+    "69:38:3": {
+      "text": "بِمَا",
+      "root": "",
+      "lemma": "مَا",
+      "pos": "REL",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "bi",
+          "source_form_ar": "بِ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "maA",
+          "source_form_ar": "مَا",
+          "pos": "REL",
+          "root": "",
+          "lemma": "مَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:38:4": {
+      "text": "تُبۡصِرُونَ",
+      "root": "بصر",
+      "lemma": "أَبْصَرَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "tuboSiru",
+          "source_form_ar": "تُبۡصِرُ",
+          "pos": "V",
+          "root": "بصر",
+          "lemma": "أَبْصَرَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "form": "IV",
+            "person_gender_number": "2MP",
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "wna",
+          "source_form_ar": "ونَ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "form": "IV",
+      "person_gender_number": "2MP",
+      "person": "2",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:39:1": {
+      "text": "وَمَا",
+      "root": "",
+      "lemma": "مَا",
+      "pos": "REL",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "maA",
+          "source_form_ar": "مَا",
+          "pos": "REL",
+          "root": "",
+          "lemma": "مَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:39:2": {
+      "text": "لَا",
+      "root": "",
+      "lemma": "لَا",
+      "pos": "NEG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "laA",
+          "source_form_ar": "لَا",
+          "pos": "NEG",
+          "root": "",
+          "lemma": "لَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:39:3": {
+      "text": "تُبۡصِرُونَ",
+      "root": "بصر",
+      "lemma": "أَبْصَرَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "tuboSiru",
+          "source_form_ar": "تُبۡصِرُ",
+          "pos": "V",
+          "root": "بصر",
+          "lemma": "أَبْصَرَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "form": "IV",
+            "person_gender_number": "2MP",
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "wna",
+          "source_form_ar": "ونَ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "form": "IV",
+      "person_gender_number": "2MP",
+      "person": "2",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:40:1": {
+      "text": "إِنَّهُۥ",
+      "root": "",
+      "lemma": "إِنّ",
+      "pos": "ACC",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "<in~a",
+          "source_form_ar": "إِنَّ",
+          "pos": "ACC",
+          "root": "",
+          "lemma": "إِنّ",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "hu,",
+          "source_form_ar": "هُ,",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:40:2": {
+      "text": "لَقَوۡلُ",
+      "root": "قول",
+      "lemma": "قَوْل",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "la",
+          "source_form_ar": "لَ",
+          "pos": "EMPH",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "qawolu",
+          "source_form_ar": "قَوۡلُ",
+          "pos": "N",
+          "root": "قول",
+          "lemma": "قَوْل",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:40:3": {
+      "text": "رَسُولࣲ",
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "rasuwlK",
+          "source_form_ar": "رَسُولࣲ",
+          "pos": "N",
+          "root": "رسل",
+          "lemma": "رَسُول",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:40:4": {
+      "text": "كَرِیمࣲ",
+      "root": "كرم",
+      "lemma": "كَرِيم",
+      "pos": "ADJ",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "kariymK",
+          "source_form_ar": "كَرِیمࣲ",
+          "pos": "ADJ",
+          "root": "كرم",
+          "lemma": "كَرِيم",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:41:1": {
+      "text": "وَمَا",
+      "root": "",
+      "lemma": "مَا",
+      "pos": "NEG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "maA",
+          "source_form_ar": "مَا",
+          "pos": "NEG",
+          "root": "",
+          "lemma": "مَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:41:2": {
+      "text": "هُوَ",
+      "root": "",
+      "lemma": "",
+      "pos": "PRON",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "huwa",
+          "source_form_ar": "هُوَ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:41:3": {
+      "text": "بِقَوۡلِ",
+      "root": "قول",
+      "lemma": "قَوْل",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "bi",
+          "source_form_ar": "بِ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "qawoli",
+          "source_form_ar": "قَوۡلِ",
+          "pos": "N",
+          "root": "قول",
+          "lemma": "قَوْل",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:41:4": {
+      "text": "شَاعِرࣲۚ",
+      "root": "شعر",
+      "lemma": "شَاعِر",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "$aAEirK",
+          "source_form_ar": "شَاعِرࣲۚ",
+          "pos": "N",
+          "root": "شعر",
+          "lemma": "شَاعِر",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:41:5": {
+      "text": "قَلِیلࣰا",
+      "root": "قلل",
+      "lemma": "قَلِيل",
+      "pos": "ADJ",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "qaliylFA",
+          "source_form_ar": "قَلِیلࣰا",
+          "pos": "ADJ",
+          "root": "قلل",
+          "lemma": "قَلِيل",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:41:6": {
+      "text": "مَّا",
+      "root": "",
+      "lemma": "مَا",
+      "pos": "REL",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "m~aA",
+          "source_form_ar": "مَّا",
+          "pos": "REL",
+          "root": "",
+          "lemma": "مَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:41:7": {
+      "text": "تُؤۡمِنُونَ",
+      "root": "امن",
+      "lemma": "ءَامَنَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "tu&ominu",
+          "source_form_ar": "تُؤۡمِنُ",
+          "pos": "V",
+          "root": "امن",
+          "lemma": "ءَامَنَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "form": "IV",
+            "person_gender_number": "2MP",
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "wna",
+          "source_form_ar": "ونَ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "form": "IV",
+      "person_gender_number": "2MP",
+      "person": "2",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:42:1": {
+      "text": "وَلَا",
+      "root": "",
+      "lemma": "لَا",
+      "pos": "NEG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "laA",
+          "source_form_ar": "لَا",
+          "pos": "NEG",
+          "root": "",
+          "lemma": "لَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:42:2": {
+      "text": "بِقَوۡلِ",
+      "root": "قول",
+      "lemma": "قَوْل",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "bi",
+          "source_form_ar": "بِ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "qawoli",
+          "source_form_ar": "قَوۡلِ",
+          "pos": "N",
+          "root": "قول",
+          "lemma": "قَوْل",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:42:3": {
+      "text": "كَاهِنࣲۚ",
+      "root": "كهن",
+      "lemma": "كَاهِن",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "kaAhinK",
+          "source_form_ar": "كَاهِنࣲۚ",
+          "pos": "N",
+          "root": "كهن",
+          "lemma": "كَاهِن",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:42:4": {
+      "text": "قَلِیلࣰا",
+      "root": "قلل",
+      "lemma": "قَلِيل",
+      "pos": "ADJ",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "qaliylFA",
+          "source_form_ar": "قَلِیلࣰا",
+          "pos": "ADJ",
+          "root": "قلل",
+          "lemma": "قَلِيل",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:42:5": {
+      "text": "مَّا",
+      "root": "",
+      "lemma": "مَا",
+      "pos": "REL",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "m~aA",
+          "source_form_ar": "مَّا",
+          "pos": "REL",
+          "root": "",
+          "lemma": "مَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:42:6": {
+      "text": "تَذَكَّرُونَ",
+      "root": "ذكر",
+      "lemma": "تَذَكَّرَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "ta*ak~aru",
+          "source_form_ar": "تَذَكَّرُ",
+          "pos": "V",
+          "root": "ذكر",
+          "lemma": "تَذَكَّرَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "form": "V",
+            "person_gender_number": "2MP",
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "wna",
+          "source_form_ar": "ونَ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "form": "V",
+      "person_gender_number": "2MP",
+      "person": "2",
+      "gender": "M",
+      "number": "P"
+    },
+    "69:43:1": {
+      "text": "تَنزِیلࣱ",
+      "root": "نزل",
+      "lemma": "تَنزِيل",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "tanziylN",
+          "source_form_ar": "تَنزِیلࣱ",
+          "pos": "N",
+          "root": "نزل",
+          "lemma": "تَنزِيل",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:43:2": {
+      "text": "مِّن",
+      "root": "",
+      "lemma": "مِن",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "m~in",
+          "source_form_ar": "مِّن",
+          "pos": "P",
+          "root": "",
+          "lemma": "مِن",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:43:3": {
+      "text": "رَّبِّ",
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "r~ab~i",
+          "source_form_ar": "رَّبِّ",
+          "pos": "N",
+          "root": "ربب",
+          "lemma": "رَبّ",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:43:4": {
+      "text": "ٱلۡعَـٰلَمِینَ",
+      "root": "علم",
+      "lemma": "عَٰلَمِين",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "Ea`lamiyna",
+          "source_form_ar": "عَٰلَمِينَ",
+          "pos": "N",
+          "root": "علم",
+          "lemma": "عَٰلَمِين",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:44:1": {
+      "text": "وَلَوۡ",
+      "root": "",
+      "lemma": "لَو",
+      "pos": "COND",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "lawo",
+          "source_form_ar": "لَوۡ",
+          "pos": "COND",
+          "root": "",
+          "lemma": "لَو",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:44:2": {
+      "text": "تَقَوَّلَ",
+      "root": "قول",
+      "lemma": "تَقَوَّلَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "taqaw~ala",
+          "source_form_ar": "تَقَوَّلَ",
+          "pos": "V",
+          "root": "قول",
+          "lemma": "تَقَوَّلَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "form": "V",
+            "person_gender_number": "3MS",
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "form": "V",
+      "person_gender_number": "3MS",
+      "person": "3",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:44:3": {
+      "text": "عَلَیۡنَا",
+      "root": "",
+      "lemma": "عَلَىٰ",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "Ealayo",
+          "source_form_ar": "عَلَیۡ",
+          "pos": "P",
+          "root": "",
+          "lemma": "عَلَىٰ",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "naA",
+          "source_form_ar": "نَا",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "P"
+          }
+        }
+      ]
+    },
+    "69:44:4": {
+      "text": "بَعۡضَ",
+      "root": "بعض",
+      "lemma": "بَعْض",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "baEoDa",
+          "source_form_ar": "بَعۡضَ",
+          "pos": "N",
+          "root": "بعض",
+          "lemma": "بَعْض",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:44:5": {
+      "text": "ٱلۡأَقَاوِیلِ",
+      "root": "قول",
+      "lemma": "أَقَاوِيل",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": ">aqaAwiyli",
+          "source_form_ar": "أَقَاوِیلِ",
+          "pos": "N",
+          "root": "قول",
+          "lemma": "أَقَاوِيل",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:45:1": {
+      "text": "لَأَخَذۡنَا",
+      "root": "اخذ",
+      "lemma": "أَخَذَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "la",
+          "source_form_ar": "لَ",
+          "pos": "EMPH",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": ">axa*o",
+          "source_form_ar": "أَخَذۡ",
+          "pos": "V",
+          "root": "اخذ",
+          "lemma": "أَخَذَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "1P",
+            "person": "1",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "naA",
+          "source_form_ar": "نَا",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "1P",
+      "person": "1",
+      "number": "P"
+    },
+    "69:45:2": {
+      "text": "مِنۡهُ",
+      "root": "",
+      "lemma": "مِن",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "mino",
+          "source_form_ar": "مِنۡ",
+          "pos": "P",
+          "root": "",
+          "lemma": "مِن",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "hu",
+          "source_form_ar": "هُ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:45:3": {
+      "text": "بِٱلۡیَمِینِ",
+      "root": "يمن",
+      "lemma": "يَمِين",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "bi",
+          "source_form_ar": "بِ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "STEM",
+          "source_form": "yamiyni",
+          "source_form_ar": "یَمِینِ",
+          "pos": "N",
+          "root": "يمن",
+          "lemma": "يَمِين",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:46:1": {
+      "text": "ثُمَّ",
+      "root": "",
+      "lemma": "ثُمّ",
+      "pos": "CONJ",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "vum~a",
+          "source_form_ar": "ثُمَّ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "ثُمّ",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:46:2": {
+      "text": "لَقَطَعۡنَا",
+      "root": "قطع",
+      "lemma": "قُطِعَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "la",
+          "source_form_ar": "لَ",
+          "pos": "EMPH",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "qaTaEo",
+          "source_form_ar": "قَطَعۡ",
+          "pos": "V",
+          "root": "قطع",
+          "lemma": "قُطِعَ",
+          "case": "",
+          "features": {
+            "aspect": "PERF",
+            "voice": "ACT",
+            "person_gender_number": "1P",
+            "person": "1",
+            "number": "P"
+          }
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "naA",
+          "source_form_ar": "نَا",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "PERF",
+      "voice": "ACT",
+      "person_gender_number": "1P",
+      "person": "1",
+      "number": "P"
+    },
+    "69:46:3": {
+      "text": "مِنۡهُ",
+      "root": "",
+      "lemma": "مِن",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "mino",
+          "source_form_ar": "مِنۡ",
+          "pos": "P",
+          "root": "",
+          "lemma": "مِن",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "hu",
+          "source_form_ar": "هُ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:46:4": {
+      "text": "ٱلۡوَتِینَ",
+      "root": "وتن",
+      "lemma": "وَتِين",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "watiyna",
+          "source_form_ar": "وَتِینَ",
+          "pos": "N",
+          "root": "وتن",
+          "lemma": "وَتِين",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:47:1": {
+      "text": "فَمَا",
+      "root": "",
+      "lemma": "مَا",
+      "pos": "NEG",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "maA",
+          "source_form_ar": "مَا",
+          "pos": "NEG",
+          "root": "",
+          "lemma": "مَا",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:47:2": {
+      "text": "مِنكُم",
+      "root": "",
+      "lemma": "مِن",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "min",
+          "source_form_ar": "مِن",
+          "pos": "P",
+          "root": "",
+          "lemma": "مِن",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "kum",
+          "source_form_ar": "كُم",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ]
+    },
+    "69:47:3": {
+      "text": "مِّنۡ",
+      "root": "",
+      "lemma": "مِن",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "m~ino",
+          "source_form_ar": "مِّنۡ",
+          "pos": "P",
+          "root": "",
+          "lemma": "مِن",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:47:4": {
+      "text": "أَحَدٍ",
+      "root": "احد",
+      "lemma": "أَحَد",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">aHadK",
+          "source_form_ar": "أَحَدٍ",
+          "pos": "N",
+          "root": "احد",
+          "lemma": "أَحَد",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:47:5": {
+      "text": "عَنۡهُ",
+      "root": "",
+      "lemma": "عَن",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "Eano",
+          "source_form_ar": "عَنۡ",
+          "pos": "P",
+          "root": "",
+          "lemma": "عَن",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "hu",
+          "source_form_ar": "هُ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:47:6": {
+      "text": "حَـٰجِزِینَ",
+      "root": "حجز",
+      "lemma": "حَٰجِزِين",
+      "pos": "ADJ",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "Ha`jiziyna",
+          "source_form_ar": "حَٰجِزِينَ",
+          "pos": "ADJ",
+          "root": "حجز",
+          "lemma": "حَٰجِزِين",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:48:1": {
+      "text": "وَإِنَّهُۥ",
+      "root": "",
+      "lemma": "إِنّ",
+      "pos": "ACC",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "<in~a",
+          "source_form_ar": "إِنَّ",
+          "pos": "ACC",
+          "root": "",
+          "lemma": "إِنّ",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "hu,",
+          "source_form_ar": "هُ,",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:48:2": {
+      "text": "لَتَذۡكِرَةࣱ",
+      "root": "ذكر",
+      "lemma": "تَذْكِرَة",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "la",
+          "source_form_ar": "لَ",
+          "pos": "EMPH",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "ta*okirapN",
+          "source_form_ar": "تَذۡكِرَةࣱ",
+          "pos": "N",
+          "root": "ذكر",
+          "lemma": "تَذْكِرَة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:48:3": {
+      "text": "لِّلۡمُتَّقِینَ",
+      "root": "وقي",
+      "lemma": "مُتَّقِين",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "l~i",
+          "source_form_ar": "لِّ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "PREFIX",
+          "source_form": "lo",
+          "source_form_ar": "لۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "STEM",
+          "source_form": "mut~aqiyna",
+          "source_form_ar": "مُتَّقِینَ",
+          "pos": "N",
+          "root": "وقي",
+          "lemma": "مُتَّقِين",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:49:1": {
+      "text": "وَإِنَّا",
+      "root": "",
+      "lemma": "إِنّ",
+      "pos": "ACC",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "<in~a",
+          "source_form_ar": "إِنَّ",
+          "pos": "ACC",
+          "root": "",
+          "lemma": "إِنّ",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "A",
+          "source_form_ar": "ا",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "1",
+            "gender": "",
+            "number": "P"
+          }
+        }
+      ]
+    },
+    "69:49:2": {
+      "text": "لَنَعۡلَمُ",
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "la",
+          "source_form_ar": "لَ",
+          "pos": "EMPH",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "naEolamu",
+          "source_form_ar": "نَعۡلَمُ",
+          "pos": "V",
+          "root": "علم",
+          "lemma": "عَلِمَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPF",
+            "mood": "IND",
+            "voice": "ACT",
+            "person_gender_number": "1P",
+            "person": "1",
+            "number": "P"
+          }
+        }
+      ],
+      "aspect": "IMPF",
+      "mood": "IND",
+      "voice": "ACT",
+      "person_gender_number": "1P",
+      "person": "1",
+      "number": "P"
+    },
+    "69:49:3": {
+      "text": "أَنَّ",
+      "root": "",
+      "lemma": "أَنّ",
+      "pos": "ACC",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": ">an~a",
+          "source_form_ar": "أَنَّ",
+          "pos": "ACC",
+          "root": "",
+          "lemma": "أَنّ",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:49:4": {
+      "text": "مِنكُم",
+      "root": "",
+      "lemma": "مِن",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "min",
+          "source_form_ar": "مِن",
+          "pos": "P",
+          "root": "",
+          "lemma": "مِن",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "kum",
+          "source_form_ar": "كُم",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "P"
+          }
+        }
+      ]
+    },
+    "69:49:5": {
+      "text": "مُّكَذِّبِینَ",
+      "root": "كذب",
+      "lemma": "مُّكَذِّبِين",
+      "pos": "N",
+      "case": "ACC",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "m~uka*~ibiyna",
+          "source_form_ar": "مُّكَذِّبِینَ",
+          "pos": "N",
+          "root": "كذب",
+          "lemma": "مُّكَذِّبِين",
+          "case": "ACC",
+          "features": {}
+        }
+      ]
+    },
+    "69:50:1": {
+      "text": "وَإِنَّهُۥ",
+      "root": "",
+      "lemma": "إِنّ",
+      "pos": "ACC",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "<in~a",
+          "source_form_ar": "إِنَّ",
+          "pos": "ACC",
+          "root": "",
+          "lemma": "إِنّ",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "hu,",
+          "source_form_ar": "هُ,",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:50:2": {
+      "text": "لَحَسۡرَةٌ",
+      "root": "حسر",
+      "lemma": "حَسْرَة",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "la",
+          "source_form_ar": "لَ",
+          "pos": "EMPH",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "HasorapN",
+          "source_form_ar": "حَسۡرَةٌ",
+          "pos": "N",
+          "root": "حسر",
+          "lemma": "حَسْرَة",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:50:3": {
+      "text": "عَلَى",
+      "root": "",
+      "lemma": "عَلَىٰ",
+      "pos": "P",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "EalaY",
+          "source_form_ar": "عَلَى",
+          "pos": "P",
+          "root": "",
+          "lemma": "عَلَىٰ",
+          "case": "",
+          "features": {}
+        }
+      ]
+    },
+    "69:50:4": {
+      "text": "ٱلۡكَـٰفِرِینَ",
+      "root": "كفر",
+      "lemma": "كَٰفِرُون",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "ka`firiyna",
+          "source_form_ar": "كَٰفِرِينَ",
+          "pos": "N",
+          "root": "كفر",
+          "lemma": "كَٰفِرُون",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:51:1": {
+      "text": "وَإِنَّهُۥ",
+      "root": "",
+      "lemma": "إِنّ",
+      "pos": "ACC",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "wa",
+          "source_form_ar": "وَ",
+          "pos": "CONJ",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "<in~a",
+          "source_form_ar": "إِنَّ",
+          "pos": "ACC",
+          "root": "",
+          "lemma": "إِنّ",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 3,
+          "type": "SUFFIX",
+          "source_form": "hu,",
+          "source_form_ar": "هُ,",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "3",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:51:2": {
+      "text": "لَحَقُّ",
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "pos": "N",
+      "case": "NOM",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "la",
+          "source_form_ar": "لَ",
+          "pos": "EMPH",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "Haq~u",
+          "source_form_ar": "حَقُّ",
+          "pos": "N",
+          "root": "حقق",
+          "lemma": "حَقّ",
+          "case": "NOM",
+          "features": {}
+        }
+      ]
+    },
+    "69:51:3": {
+      "text": "ٱلۡیَقِینِ",
+      "root": "يقن",
+      "lemma": "يَقِين",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "yaqiyni",
+          "source_form_ar": "یَقِینِ",
+          "pos": "N",
+          "root": "يقن",
+          "lemma": "يَقِين",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:52:1": {
+      "text": "فَسَبِّحۡ",
+      "root": "سبح",
+      "lemma": "سَبَّحَ",
+      "pos": "V",
+      "case": "",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "fa",
+          "source_form_ar": "فَ",
+          "pos": "REM",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "sab~iHo",
+          "source_form_ar": "سَبِّحۡ",
+          "pos": "V",
+          "root": "سبح",
+          "lemma": "سَبَّحَ",
+          "case": "",
+          "features": {
+            "aspect": "IMPV",
+            "voice": "ACT",
+            "form": "II",
+            "person_gender_number": "2MS",
+            "person": "2",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ],
+      "aspect": "IMPV",
+      "voice": "ACT",
+      "form": "II",
+      "person_gender_number": "2MS",
+      "person": "2",
+      "gender": "M",
+      "number": "S"
+    },
+    "69:52:2": {
+      "text": "بِٱسۡمِ",
+      "root": "سمو",
+      "lemma": "ٱسْم",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "bi",
+          "source_form_ar": "بِ",
+          "pos": "P",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "{somi",
+          "source_form_ar": "ٱسۡمِ",
+          "pos": "N",
+          "root": "سمو",
+          "lemma": "ٱسْم",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    },
+    "69:52:3": {
+      "text": "رَبِّكَ",
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "pos": "N",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "STEM",
+          "source_form": "rab~i",
+          "source_form_ar": "رَبِّ",
+          "pos": "N",
+          "root": "ربب",
+          "lemma": "رَبّ",
+          "case": "GEN",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "SUFFIX",
+          "source_form": "ka",
+          "source_form_ar": "كَ",
+          "pos": "PRON",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {
+            "person": "2",
+            "gender": "M",
+            "number": "S"
+          }
+        }
+      ]
+    },
+    "69:52:4": {
+      "text": "ٱلۡعَظِیمِ",
+      "root": "عظم",
+      "lemma": "عَظِيم",
+      "pos": "ADJ",
+      "case": "GEN",
+      "segments": [
+        {
+          "segment": 1,
+          "type": "PREFIX",
+          "source_form": "{lo",
+          "source_form_ar": "ٱلۡ",
+          "pos": "DET",
+          "root": "",
+          "lemma": "",
+          "case": "",
+          "features": {}
+        },
+        {
+          "segment": 2,
+          "type": "STEM",
+          "source_form": "EaZiymi",
+          "source_form_ar": "عَظِیمِ",
+          "pos": "ADJ",
+          "root": "عظم",
+          "lemma": "عَظِيم",
+          "case": "GEN",
+          "features": {}
+        }
+      ]
+    }
+  }
+}

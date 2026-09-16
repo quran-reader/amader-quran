@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="bn">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Qur'an Research Reader</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header class="header">
+
+        <h1>Qur'an Research Reader</h1>
+
+        <p>
+            Indo-Pak Qur'an Reader • Root Analysis • Bookmark
+        </p>
+
+    </header>
+
+
+    <!-- Main Application -->
+    <div class="app-container">
+
+
+        <!-- Left Sidebar -->
+        <aside class="sidebar">
+
+            <h2>সূরা</h2>
+
+            <select id="surahSelect">
+    <option value="1">১. আল-ফাতিহা</option>
+    <option value="2">২. আল-বাকারা</option>
+    <option value="3">৩. আলে ইমরান</option>
+    <option value="4">৪. আন-নিসা</option>
+    <option value="5">৫. আল-মায়িদাহ</option>
+    <option value="6">৬. আল-আনআম</option>
+    <option value="7">৭. আল-আরাফ</option>
+    <option value="8">৮. আল-আনফাল</option>
+    <option value="9">৯. আত-তাওবাহ</option>
+    <option value="10">১০. ইউনুস</option>
+    <option value="11">১১. হূদ</option>
+    <option value="12">১২. ইউসুফ</option>
+    <option value="13">১৩. আর-রাদ</option>
+    <option value="14">১৪. ইবরাহীম</option>
+    <option value="15">১৫. আল-হিজর</option>
+    <option value="16">১৬. আন-নাহল</option>
+    <option value="17">১৭. আল-ইসরা</option>
+    <option value="18">১৮. আল-কাহফ</option>
+    <option value="19">১৯. মারইয়াম</option>
+    <option value="20">২০. ত্বা-হা</option>
+    <option value="21">২১. আল-আম্বিয়া</option>
+    <option value="22">২২. আল-হাজ্জ</option>
+    <option value="23">২৩. আল-মুমিনূন</option>
+    <option value="24">২৪. আন-নূর</option>
+    <option value="25">২৫. আল-ফুরকান</option>
+    <option value="26">২৬. আশ-শুআরা</option>
+    <option value="27">২৭. আন-নামল</option>
+    <option value="28">২৮. আল-কাসাস</option>
+    <option value="29">২৯. আল-আনকাবূত</option>
+    <option value="30">৩০. আর-রূম</option>
+    <option value="31">৩১. লুকমান</option>
+    <option value="32">৩২. আস-সাজদাহ</option>
+    <option value="33">৩৩. আল-আহযাব</option>
+    <option value="34">৩৪. সাবা</option>
+    <option value="35">৩৫. ফাতির</option>
+    <option value="36">৩৬. ইয়াসীন</option>
+    <option value="37">৩৭. আস-সাফফাত</option>
+    <option value="38">৩৮. সোয়াদ</option>
+    <option value="39">৩৯. আয-যুমার</option>
+    <option value="40">৪০. গাফির</option>
+    <option value="41">৪১. ফুসসিলাত</option>
+    <option value="42">৪২. আশ-শূরা</option>
+    <option value="43">৪৩. আয-যুখরুফ</option>
+    <option value="44">৪৪. আদ-দুখান</option>
+    <option value="45">৪৫. আল-জাসিয়াহ</option>
+    <option value="46">৪৬. আল-আহকাফ</option>
+    <option value="47">৪৭. মুহাম্মাদ</option>
+    <option value="48">৪৮. আল-ফাতহ</option>
+    <option value="49">৪৯. আল-হুজুরাত</option>
+    <option value="50">৫০. ক্বাফ</option>
+    <option value="51">৫১. আয-যারিয়াত</option>
+    <option value="52">৫২. আত-তূর</option>
+    <option value="53">৫৩. আন-নাজম</option>
+    <option value="54">৫৪. আল-কামার</option>
+    <option value="55">৫৫. আর-রহমান</option>
+    <option value="56">৫৬. আল-ওয়াকিয়াহ</option>
+    <option value="57">৫৭. আল-হাদীদ</option>
+    <option value="58">৫৮. আল-মুজাদালাহ</option>
+    <option value="59">৫৯. আল-হাশর</option>
+    <option value="60">৬০. আল-মুমতাহিনাহ</option>
+    <option value="61">৬১. আস-সাফ</option>
+    <option value="62">৬২. আল-জুমুআহ</option>
+    <option value="63">৬৩. আল-মুনাফিকূন</option>
+    <option value="64">৬৪. আত-তাগাবুন</option>
+    <option value="65">৬৫. আত-তালাক</option>
+    <option value="66">৬৬. আত-তাহরীম</option>
+    <option value="67">৬৭. আল-মুলক</option>
+    <option value="68">৬৮. আল-কলম</option>
+    <option value="69">৬৯. আল-হাক্কাহ</option>
+    <option value="70">৭০. আল-মাআরিজ</option>
+    <option value="71">৭১. নূহ</option>
+    <option value="72">৭২. আল-জিন</option>
+    <option value="73">৭৩. আল-মুযযাম্মিল</option>
+    <option value="74">৭৪. আল-মুদ্দাসসির</option>
+    <option value="75">৭৫. আল-কিয়ামাহ</option>
+    <option value="76">৭৬. আল-ইনসান</option>
+    <option value="77">৭৭. আল-মুরসালাত</option>
+    <option value="78">৭৮. আন-নাবা</option>
+    <option value="79">৭৯. আন-নাযিআত</option>
+    <option value="80">৮০. আবাসা</option>
+    <option value="81">৮১. আত-তাকভীর</option>
+    <option value="82">৮২. আল-ইনফিতার</option>
+    <option value="83">৮৩. আল-মুতাফফিফীন</option>
+    <option value="84">৮৪. আল-ইনশিকাক</option>
+    <option value="85">৮৫. আল-বুরূজ</option>
+    <option value="86">৮৬. আত-তারিক</option>
+    <option value="87">৮৭. আল-আলা</option>
+    <option value="88">৮৮. আল-গাশিয়াহ</option>
+    <option value="89">৮৯. আল-ফজর</option>
+    <option value="90">৯০. আল-বালাদ</option>
+    <option value="91">৯১. আশ-শামস</option>
+    <option value="92">৯২. আল-লাইল</option>
+    <option value="93">৯৩. আদ-দুহা</option>
+    <option value="94">৯৪. আশ-শারহ</option>
+    <option value="95">৯৫. আত-তীন</option>
+    <option value="96">৯৬. আল-আলাক</option>
+    <option value="97">৯৭. আল-কদর</option>
+    <option value="98">৯৮. আল-বাইয়্যিনাহ</option>
+    <option value="99">৯৯. আয-যিলযাল</option>
+    <option value="100">১০০. আল-আদিয়াত</option>
+    <option value="101">১০১. আল-ক্বারিয়াহ</option>
+    <option value="102">১০২. আত-তাকাসুর</option>
+    <option value="103">১০৩. আল-আসর</option>
+    <option value="104">১০৪. আল-হুমাযাহ</option>
+    <option value="105">১০৫. আল-ফীল</option>
+    <option value="106">১০৬. কুরাইশ</option>
+    <option value="107">১০৭. আল-মাউন</option>
+    <option value="108">১০৮. আল-কাওসার</option>
+    <option value="109">১০৯. আল-কাফিরূন</option>
+    <option value="110">১১০. আন-নাসর</option>
+    <option value="111">১১১. আল-মাসাদ</option>
+    <option value="112">১১২. আল-ইখলাস</option>
+    <option value="113">১১৩. আল-ফালাক</option>
+    <option value="114">১১৪. আন-নাস</option>
+</select>
+
+
+            <button id="bookmarkButton">
+                🔖 Bookmark
+            </button>
+            <div id="bookmarkList"></div>
+
+            <button id="searchButton">
+                🔍 Search
+            </button>
+
+        </aside>
+
+
+        <!-- Reader -->
+        <main class="reader">
+
+            <div class="reader-header">
+
+                <h2 id="surahTitle">
+                    সূরা আল-ফাতিহা
+                </h2>
+
+            </div>
+
+
+            <!-- Ayah -->
+            <section id="ayahContainer">
+    <div class="ayah">
+        Qur'an data loading...
+    </div>
+</section>
+
+<div class="navigation-buttons">
+    <button id="prevAyah">← আগের আয়াত</button>
+    <button id="nextAyah">পরের আয়াত →</button>
+</div>
+
+
+            <!-- Analysis -->
+            <section class="analysis">
+
+                <h2>
+                    শব্দ বিশ্লেষণ
+                </h2>
+
+                <div id="wordAnalysis">
+
+                    <p>
+                        কোনো শব্দ নির্বাচন করুন।
+                    </p>
+
+                </div>
+
+            </section>
+
+        </main>
+             <div class="mode-buttons">
+
+    <button id="readerModeButton">
+        👤 সাধারণ Reader
+    <div class="mode-buttons">
+
+    <button id="readerModeButton">
+        👤 সাধারণ Reader
+    </button>
+
+    <button id="adminModeButton">
+        👨‍💼 Admin Mode
+    </button>
+
+    <button id="adminLogoutButton" style="display: none;">
+        🚪 Admin Logout
+    </button>
+
+</div>
+
+<div id="currentModeDisplay">
+    👤 সাধারণ Reader Mode
+</div>
+    </div>
+
+
+    <!-- JavaScript -->
+    <script src="js/app.js"></script>
+
+</body>
+
+</html>
