@@ -6,7 +6,6 @@ let adminTranslations = {};
 let currentSurah = 1;
 let currentAyah = 1;
 let currentMode = "reader";
-const ADMIN_PASSWORD = "1234";
 let bookmarks =
     JSON.parse(localStorage.getItem("quranBookmarks")) || [];
 const surahNames = {
@@ -877,25 +876,66 @@ readerModeButton.addEventListener("click", function () {
 });
 
 
-adminModeButton.addEventListener("click", function () {
+adminModeButton.addEventListener("click", async function () {
 
     const password = prompt("🔐 Admin Password দিন:");
 
-    if (password === ADMIN_PASSWORD) {
+    if (!password) {
+        return;
+    }
 
-        currentMode = "admin";
-        currentModeDisplay.textContent = "👨‍💼 Admin Mode";
-        adminLogoutButton.style.display = "inline-block";
-        adminModeButton.style.display =
-            "none";
-        loadSurah(currentSurah);
+    try {
 
-        alert("👨‍💼 Admin Mode চালু হয়েছে।");
+        const response = await fetch(
+            "https://amader-quran-backend.onrender.com/api/admin/login",
+            {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    password: password
+                })
+            }
+        );
 
-    }    
-    else {
-        currentMode = "reader";
-        alert("❌ Password সঠিক নয়।");
+        const data = await response.json();
+
+        if (data.success) {
+
+            currentMode = "admin";
+
+            currentModeDisplay.textContent =
+                "👨‍💼 Admin Mode";
+
+            adminLogoutButton.style.display =
+                "inline-block";
+
+            adminModeButton.style.display =
+                "none";
+
+            loadSurah(currentSurah);
+
+            alert("👨‍💼 Admin Mode চালু হয়েছে।");
+
+        } else {
+
+            currentMode = "reader";
+
+            alert("❌ Password সঠিক নয়।");
+
+        }
+
+    } catch (error) {
+
+        console.error(
+            "❌ Admin login error:",
+            error
+        );
+
+        alert(
+            "⚠️ Server-এর সাথে যোগাযোগ করা যাচ্ছে না।"
+        );
 
     }
 
