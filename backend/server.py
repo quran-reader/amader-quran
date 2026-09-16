@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import json
 import os
-
+import secrets
 app = Flask(__name__)
 CORS(app)
 DATA_FILE = os.path.join(
@@ -28,7 +28,36 @@ def save_translations(data):
             indent=2
         )
 
+@app.post("/api/admin/login")
+def admin_login():
 
+    data = request.get_json() or {}
+
+    password = str(
+        data.get("password", "")
+    )
+
+    admin_password = os.environ.get(
+        "ADMIN_PASSWORD",
+        ""
+    )
+
+    if (
+        admin_password
+        and secrets.compare_digest(
+            password,
+            admin_password
+        )
+    ):
+        return jsonify({
+            "success": True,
+            "message": "Admin login successful."
+        })
+
+    return jsonify({
+        "success": False,
+        "message": "Invalid password."
+    }), 401
 @app.get("/api/translations")
 def get_translations():
     return jsonify(load_translations())
